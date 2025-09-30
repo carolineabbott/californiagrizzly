@@ -234,7 +234,7 @@
       ]
     },
     {
-      "@id": "https://www.wikipedia.org/",
+      "@id": "https://predatormicrohistorynetwork.org/2025/09/03/our-nimrods-have-returned-gb-1860-5-gb-1860-5a-gb-1860-5b/",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
@@ -285,7 +285,7 @@
         "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
         "ImperialRel": "American",
         "TrackorUAN": "Unique Animal Numbers",
-        "CatalogueNumber": "GB.1860.1",
+        "CatalogueNumber": "GB.1860.5",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
         
       },
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "@id": "https://en.wikipedia.org/wiki/Grizzly_bear",
+      "@id": "https://predatormicrohistorynetwork.org/2025/09/03/our-nimrods-have-returned-gb-1860-5-gb-1860-5a-gb-1860-5b/#GB.1860.5A",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
@@ -359,7 +359,7 @@
         "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
         "ImperialRel": "American",
         "TrackorUAN": "Unique Animal Numbers",
-        "CatalogueNumber": "GB.1860.1",
+        "CatalogueNumber": "GB.1860.5A",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
       
       },
@@ -383,7 +383,7 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/",
+      "@id": "https://predatormicrohistorynetwork.org/2025/09/03/our-nimrods-have-returned-gb-1860-5-gb-1860-5a-gb-1860-5b/#GB.1860.5B",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
@@ -436,7 +436,7 @@
         "ImperialRel": "American",
         "TrackorUAN": "Unique Animal Numbers",
         "AssocDomesticAnimal": "None known",
-        "CatalogueNumber": "GB.1860.1A",
+        "CatalogueNumber": "GB.1860.5B",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
       
       },
