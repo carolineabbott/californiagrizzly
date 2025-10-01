@@ -900,6 +900,76 @@
       ]
     },
     {
+      "@id": "https://predatormicrohistorynetwork.org/2025/06/14/gb-1860-2-gb-1860-3-gb-1860-4/#GB.1860.3",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Oroville",
+        "NativeLandRel": ["Maidu", "Mountain Maidu", "Mechoopda", "Kojomk’awi (Konkow)", "Washoe", "Cayuse, Umatilla, and Walla Walla", "Nisenan"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "May",
+        "Day": "31",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "NumberPredators": "This microhistory involves more than one predator",
+        "MaternityLink": "Unknown association with maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Killed",
+        "Season": "Spring",
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": ["Period of emergence from den", "Period of normal activity following winter rest"],
+        "PreyPresence": "Unknown",
+        "Weight": ["400-500lbs", "500-600lbs"],
+        "Length": "Length unknown",
+        "DomAnimals": "Unknown",
+        "Livestock": "Unknown",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "Unknown",
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Not known to be retaliatory",
+        "ExtractiveLink": "Hunting",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "CalRiverSystem": "Feather River",
+        "CalRiver": ["Feather River Middle Fork", "Feather River South Fork"],
+        "Ecoregion": "Sierra Nevada Forests",
+        "Biome": "Temperate Conifer Forests",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Marysville Daily Appeal",
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.3",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2310365,
+          39.7094808
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“We are informed by a gentleman from the mountains, that a hunter killed three grizzly bears in one week, lately, on the divide between the south and middle forks of Feather River, near the Mountain Spring House. The brutes weighed from 400 to 600 pounds each. The section of country named is situated in Butte County, about forty miles from Oroville. It is a very rugged and wild region, where new ravine, creek and hydraulic mines are being developed, and young settlements are springing up. It is accessible only by mule trail, at present.” Grizzly Hunting, Marysville Daily Appeal, June 5 1860. Please see the Predator Microhistory Network's entry for GB.1860.2, GB.1860.3, and GB.1860.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/5/54/Frederick_Ferdinand_Schafer_-_Morning_on_Feather_River%2C_California.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/54/Frederick_Ferdinand_Schafer_-_Morning_on_Feather_River%2C_California.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
