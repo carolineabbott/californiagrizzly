@@ -251,7 +251,7 @@
         "Day": "13",
         "Tier": "Tier 2: An encounter with a predator animal with no physical contact regardless of proximity",
         "NumberPredators": "This microhistory involves more than one predator",
-        "MaternityLink": "histories inferred",
+        "MaternityLink": "Maternal microhistories inferred",
         "Offspring": "2",
         "Sex": "Female",
         "Age": "Adult or likely adult",
@@ -685,6 +685,77 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/06/07/gb-1860-1/",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Jamison",
+        "NativeLandRel": ["Mountain Maidu", "Washoe", "Nisenan", "Cayuse, Umatilla, and Walla Walla"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "May",
+        "Day": "13",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "Negative association with maternity",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Health": "Poor health or condition",
+        "PredMortality": "Killed",
+        "Season": "Spring",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": ["Period of emergence from den", "Period of normal activity following winter rest"],
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "500-600lbs",
+        "Length": "Length unknown",
+        "DomAnimals": "Domestic animal involvement",
+        "Livestock": "None",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Herrington", "Penman"],
+        "HumanFatality": "Human injury",
+        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
+        "ExtractiveLink": "Hunting",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "CalRiverSystem": "Feather River",
+        "CalRiver": "Jamison Creek",
+        "Ecoregion": "Sierra Nevada Forests",
+        "Biome": "Temperate Conifer Forests",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily Alta California", "Hydraulic Press", "La Porte Messenger", "North San Juan Press", "Shasta Courier", "Sierra Citizen", "Nevada Democrat", "Sacramento Daily Union"],
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "AssocDomesticAnimal": "Dog",
+        "CatalogueNumber": "GB.1860.1",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6821651,
+          39.7760082
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A grizzly bear was r—c-ently killed near Jamison City, Sierra co—. It weighed five hundred pounds. A ma— Herrington had a fight with it previ— —— was considerably injured.” A Grizzly Killed, Sacramento Daily Union, May 22 1860. Please see the Predator Microhistory Network's entry for GB.1860.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Toft_-_e2c437d8d8.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Toft_-_e2c437d8d8.jpg"
         }
       ]
     },
