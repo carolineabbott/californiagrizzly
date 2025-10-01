@@ -53,7 +53,7 @@
         "PrintMedState": "California",
         "CalPrint": ["San Andreas Independent", "San Joaquin Republican", "Sacramento Daily Union", "Petaluma Weekly Argus", "Nevada Democrat", "Daily National Democrat"],
         "ImperialRel": "American",
-        "TrackorUAN": "Unique Animal Numbers",
+        "TrackorUAN": "UAN",
         "CatalogueNumber": "GB.1859.1",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
         
@@ -284,7 +284,7 @@
         "PrintMedState": "California",
         "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
         "ImperialRel": "American",
-        "TrackorUAN": "Unique Animal Numbers",
+        "TrackorUAN": "UAN",
         "CatalogueNumber": "GB.1860.5",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
         
@@ -358,7 +358,7 @@
         "PrintMedState": "California",
         "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
         "ImperialRel": "American",
-        "TrackorUAN": "Unique Animal Numbers",
+        "TrackorUAN": "UAN",
         "CatalogueNumber": "GB.1860.5",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
       
@@ -434,7 +434,7 @@
         "PrintMedState": "California",
         "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
         "ImperialRel": "American",
-        "TrackorUAN": "Unique Animal Numbers",
+        "TrackorUAN": "UAN",
         "AssocDomesticAnimal": "None known",
         "CatalogueNumber": "GB.1860.5A",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
@@ -511,7 +511,7 @@
         "PrintMedState": "California",
         "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
         "ImperialRel": "American",
-        "TrackorUAN": "Unique Animal Numbers",
+        "TrackorUAN": "UAN",
         "AssocDomesticAnimal": "None known",
         "CatalogueNumber": "GB.1860.5B",
         "IUCNStatus": "Extinct - Not IUCN Red List Listed"
@@ -905,7 +905,6 @@
       "properties": {
         "PredType": "Bears",
         "BearType": "American Black Bear, Ursus americanus",
-        "GBSubtype": "Cinnamon bear, Ursus americanus cinnamomum",
         "Country": "United States",
         "USState": "California",
         "CACityTown": "Jamison",
