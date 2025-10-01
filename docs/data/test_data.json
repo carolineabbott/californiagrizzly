@@ -709,7 +709,7 @@
         "MaternityLink": "Negative association with maternity",
         "Sex": "Male",
         "Age": "Adult or likely adult",
-        "Health": "",
+        "Health": "Unknown",
         "PredMortality": "Killed",
         "Season": "Spring",
         "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
@@ -719,7 +719,7 @@
         "Length": "Length unknown",
         "DomAnimals": "Unknown",
         "Livestock": "Unknown",
-        "SocialGroup": ["Hunters of the American West", "Unknown"]
+        "SocialGroup": ["Hunters of the American West", "Unknown"],
         "NumberHumans": "Unknown",
         "HumanNames": "Unknown",
         "HumanFatality": "Unknown",
