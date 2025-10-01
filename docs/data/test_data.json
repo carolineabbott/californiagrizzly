@@ -709,21 +709,21 @@
         "MaternityLink": "No relationship with maternity",
         "Sex": "Male",
         "Age": "Adult or likely adult",
-        "Health": "Unknown",
-        "PredMortality": "Killed",
+        "Health": "Poor health or condition",
+        "PredMortality": "Lived",
         "Season": "Spring",
         "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
         "HibernationQualities": ["Period of emergence from den", "Period of normal activity following winter rest"],
-        "PreyPresence": "Unknown",
-        "Weight": "Weight unknown",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "500-600lbs",
         "Length": "Length unknown",
-        "DomAnimals": "Unknown",
-        "Livestock": "Unknown",
-        "SocialGroup": ["Hunters of the American West", "Unknown"],
-        "NumberHumans": "Unknown",
-        "HumanNames": "Unknown",
-        "HumanFatality": "Unknown",
-        "RetaliatoryMotive": "Unknown",
+        "DomAnimals": "Domestic animal involvement",
+        "Livestock": "None",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Herrington", "Penman", "Smith"],
+        "HumanFatality": ["Human injury", "No known fatality"],
+        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
         "ExtractiveLink": "Hunting",
         "MountainRange": "The Sierra Nevada Mountains",
         "CalRiverSystem": "Feather River",
@@ -745,6 +745,146 @@
         "coordinates": [
           -120.6821651,
           39.7760082
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A party of three persons went out, on the 12th inst., in search of a grizzly. They found him, and fired several times, some of the shots taking effect, though not with desirable satisfaction. The bear, after being wounded, started after his tormenters, two of the hunters running for their dear lives, and the third, Joshua Herrington, remaining to give bruin another round. Herrington attempted to fire, but the cap on his gun snapped. He then endeavored to escape, but stumbled over a log, and was overtaken by the bear. In the encounter which followed, between Herrington and bruin, the former fared badly—receiving a severe wound on the head, another on the thigh, and a third on one of his hands. He escaped with these injuries, and is now recovering slowly. The day following, 13th, a party went out after the bear, but returned to town without accomplishing anything. A third was formed, started out, and saved the animal’s carcass. The grizzly was large, but being quite poor he weighed only five hundred pounds. One of his hind feet, which was measured, was eleven and a half inches in length and seven inches wide.” A Bear Story, Nevada Democrat, May 30 1860. Please see the Predator Microhistory Network's entry for GB.1860.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Toft_-_e2c437d8d8.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Toft_-_e2c437d8d8.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/06/07/gb-1860-1/#GB.1860.1-may-13",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Jamison",
+        "NativeLandRel": ["Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Cayuse, Umatilla, and Walla Walla"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "May",
+        "Day": "13",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "No relationship with maternity",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Health": "Poor health or condition",
+        "PredMortality": "Lived",
+        "Season": "Spring",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": ["Period of emergence from den", "Period of normal activity following winter rest"],
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "500-600lbs",
+        "Length": "Length unknown",
+        "DomAnimals": "Unknown",
+        "Livestock": "None",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "Unknown",
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Known or suspected to be retaliatory",
+        "ExtractiveLink": "Hunting",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "CalRiverSystem": "Feather River",
+        "CalRiver": "Jamison Creek",
+        "Ecoregion": "Sierra Nevada Forests",
+        "Biome": "Temperate Conifer Forests",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily Alta California", "Hydraulic Press", "La Porte Messenger", "North San Juan Press", "Shasta Courier", "Sierra Citizen", "Nevada Democrat", "Sacramento Daily Union"],
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.1",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6821651,
+          39.7760082
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The day following, 13th, a party went out after the bear, but returned to town without accomplishing anything.” A Bear Story, Nevada Democrat, May 30 1860. Please see the Predator Microhistory Network's entry for GB.1860.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Toft_-_e2c437d8d8.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peter_Toft_-_e2c437d8d8.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/06/07/gb-1860-1/#GB.1860.1-may-14",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Jamison",
+        "NativeLandRel": ["Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Cayuse, Umatilla, and Walla Walla"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "May",
+        "Day": ["13", "14"],
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "No relationship with maternity",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Health": "Poor health or condition",
+        "PredMortality": "Killed",
+        "Season": "Spring",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": ["Period of emergence from den", "Period of normal activity following winter rest"],
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "500-600lbs",
+        "Length": "Length unknown",
+        "DomAnimals": "Unknown",
+        "Livestock": "Unknown",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "Unknown",
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Known or suspected to be retaliatory",
+        "ExtractiveLink": "Hunting",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "CalRiverSystem": "Feather River",
+        "CalRiver": "Jamison Creek",
+        "Ecoregion": "Sierra Nevada Forests",
+        "Biome": "Temperate Conifer Forests",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily Alta California", "Hydraulic Press", "La Porte Messenger", "North San Juan Press", "Shasta Courier", "Sierra Citizen", "Nevada Democrat", "Sacramento Daily Union"],
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.1",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6821621,
+          39.7760042
         ]
       },
       "descriptions": [
