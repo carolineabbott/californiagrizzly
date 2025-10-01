@@ -1179,6 +1179,76 @@
       ]
     },
     {
+      "@id": "https://predatormicrohistorynetwork.org/2025/10/01/t-gb-1860-2/",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "San Jose",
+        "NativeLandRel": ["Muwekma", "Tamien Nation", "Ohlone", "Confederated Villages of Lisjan", "Popeloutchom (Amah Mutsun)", "Yokuts"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "June",
+        "Day": "6",
+        "Tier": "Tier 2: An encounter with a predator animal with no physical contact regardless of proximity",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Lived",
+        "Season": "Summer",
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": "Period of normal activity following winter rest",
+        "PreyPresence": "Wild prey animals referenced",
+        "Weight": ["400-500lbs", "500-600lbs"],
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "None",
+        "SocialGroup": "Fishing labour in the American west",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "Unknown",
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Not known to be retaliatory",
+        "ExtractiveLink": "Fishing",
+        "MountainRange": "Diablo Mountain Range",
+        "CalRiverSystem": "Alameda Creek Watershed",
+        "CalRiver": "Alameda Creek",
+        "Ecoregion": "California Interior Chaparral and Woodlands",
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily National Democrat",
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",        
+        "CatalogueNumber": "T.GB.1860.2",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2948757,
+          37.9540916
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“On Wednesday last two gentlemen of San Jose started out on a trout-fishing excursion in the hills east of that place, and in the course of two hours succeeded in bagging two hundred and thirty-six fine speckled trout. In addition to this good luck, one of the hombres was so fortunate as to be treed by a huge grizzly bear. The only result of the last named adventure, was a mutual fright of the bear and trout catcher.” Fishing Extraordinary, Daily National Democrat, June 10 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.2 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/4/42/%28View_of_a_Creek%29._San_Jose%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/42/%28View_of_a_Creek%29._San_Jose%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
