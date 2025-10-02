@@ -1990,6 +1990,70 @@
       ]
     },
     {
+      "@id": "https://cdnc.ucr.edu/?a=d&d=NDN18600711.2.2",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Felines",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Santa Cruz",
+        "NativeLandRel": ["Muwekma", "Tamien Nation", "Ohlone"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "June",
+        "Day": "28",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Unknown",
+        "Season": "Summer",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "Horse",
+        "SocialGroup": "Ranchers of the American West",
+        "NumberHumans": "One human",
+        "HumanNames": "Ellis",
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Not known to be pretext for retaliation",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": ["Santa Cruz Mountains", "California Coast Ranges"],
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Sacramento Daily Union", "Santa Cruz Sentinel", "Red Bluff Beacon", "San Joaquin Republican", "Nevada Democrat", "Mountain Democrat"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",        
+        "CatalogueNumber": "T.ML.1860.1",
+        "IUCNStatus": "LC Lower Risk or Least Concern"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.008363,
+          37.045992
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The wild animals must be rather dangerous about Santa Cruz. Not long since, the Rev. Mr. West was chased by a grizzly, but being in good running condition, and somewhat frightened, he succeeded in keeping himself out of bruin’s grasp. Mr. Asa Ellis, who lives in the neighborhood had a valuable horse killed week before last by a California lion.” Varmints, Nevada Democrat, July 11 1860. Please see the Predator Microhistory Network's entry for T.ML.1860.1 and T.GB.1860.3 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/View_of_Santa_Cruz%2C_Santa_Cruz_County_LCCN2002721053.tif/lossy-page1-1536px-View_of_Santa_Cruz%2C_Santa_Cruz_County_LCCN2002721053.tif.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/View_of_Santa_Cruz%2C_Santa_Cruz_County_LCCN2002721053.tif/lossy-page1-1536px-View_of_Santa_Cruz%2C_Santa_Cruz_County_LCCN2002721053.tif.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
