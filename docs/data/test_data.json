@@ -1956,7 +1956,7 @@
         "HumanFatality": "No known fatality or injury",
         "RetaliatoryMotive": "Not known to be pretext for retaliation",
         "ExtractiveLink": "Ranching",
-        "MountainRange": ["Santa Cruz Mountains", "California Coast Ranges"]
+        "MountainRange": ["Santa Cruz Mountains", "California Coast Ranges"],
         "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
         "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
         "SourceType": "Newspaper or print media",
