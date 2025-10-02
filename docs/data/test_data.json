@@ -2208,6 +2208,7 @@
         "NumberPredators": "This microhistory involves more than one predator",
         "PredMortality": "Lived",
         "Season": ["Spring", "Summer", "Winter", "Fall"],
+        "PreyPresence": "Wild prey animals referenced",
         "Livestock": ["Cattle", "Sheep"],
         "SocialGroup": "Ranchers of the American West",
         "NumberHumans": "Multiple humans",
@@ -2233,7 +2234,7 @@
       },
       "descriptions": [
         {
-          "value": "“The “Coast Range,” of California, from one end of the State to the other, is a vast hunting-group, in which the bear, the panther, the wolf, and the deer exist in almost countless profusion. In no single locality however, in this chain of hills, are these wild denizens of the mountain fastnesses more numerous than in the southern portion of Monterey county. Yet, here, quite a number of enterprising Americans have located themselves, for the purpose of sheep raising; the facilities of pasturage, and the advantages of climate compensating for the annoyance and risks to which their flocks are subjected from the wolves, bears, and panthers.” The Perils of the Hills, Daily Alta California, July 22, 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.5 and T.GB.1860.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“The “Coast Range,” of California, from one end of the State to the other, is a vast hunting-group, in which the bear, the panther, the wolf, and the deer exist in almost countless profusion. In no single locality however, in this chain of hills, are these wild denizens of the mountain fastnesses more numerous than in the southern portion of Monterey county. Yet, here, quite a number of enterprising Americans have located themselves, for the purpose of sheep raising; the facilities of pasturage, and the advantages of climate compensating for the annoyance and risks to which their flocks are subjected from the wolves, bears, and panthers.” The Perils of the Hills, Daily Alta California, July 22, 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
@@ -2259,6 +2260,7 @@
         "NumberPredators": "This microhistory involves more than one predator",
         "PredMortality": "Lived",
         "Season": ["Spring", "Summer", "Winter", "Fall"],
+        "PreyPresence": "Wild prey animals referenced",
         "Livestock": ["Cattle", "Sheep"],
         "SocialGroup": "Ranchers of the American West",
         "NumberHumans": "Multiple humans",
@@ -2284,7 +2286,59 @@
       },
       "descriptions": [
         {
-          "value": "“The “Coast Range,” of California, from one end of the State to the other, is a vast hunting-group, in which the bear, the panther, the wolf, and the deer exist in almost countless profusion. In no single locality however, in this chain of hills, are these wild denizens of the mountain fastnesses more numerous than in the southern portion of Monterey county. Yet, here, quite a number of enterprising Americans have located themselves, for the purpose of sheep raising; the facilities of pasturage, and the advantages of climate compensating for the annoyance and risks to which their flocks are subjected from the wolves, bears, and panthers.” The Perils of the Hills, Daily Alta California, July 22, 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.5 and T.ML.1860.2 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“The “Coast Range,” of California, from one end of the State to the other, is a vast hunting-group, in which the bear, the panther, the wolf, and the deer exist in almost countless profusion. In no single locality however, in this chain of hills, are these wild denizens of the mountain fastnesses more numerous than in the southern portion of Monterey county. Yet, here, quite a number of enterprising Americans have located themselves, for the purpose of sheep raising; the facilities of pasturage, and the advantages of climate compensating for the annoyance and risks to which their flocks are subjected from the wolves, bears, and panthers.” The Perils of the Hills, Daily Alta California, July 22, 1860. Please see the Predator Microhistory Network's entry for T.ML.1860.2 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/d/dc/08220-Monterey_County-1906-Midway_Point%2C_Monterey_County-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/dc/08220-Monterey_County-1906-Midway_Point%2C_Monterey_County-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg"
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PredType": "Canids",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Monterey",
+        "NativeLandRel": ["Esselen", "Salinan", "Popeloutchom (Amah Mutsun)", "Chalon", "Rumsen", "Ohlone", "Yokuts"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": ["June", "July"],
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "NumberPredators": "This microhistory involves more than one predator",
+        "PredMortality": "Lived",
+        "Season": ["Spring", "Summer", "Winter", "Fall"],
+        "PreyPresence": "Wild prey animals referenced",
+        "Livestock": ["Cattle", "Sheep"],
+        "SocialGroup": "Ranchers of the American West",
+        "NumberHumans": "Multiple humans",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": ["Santa Lucia Mountains", "California Coast Ranges"],
+        "Ecoregion": ["Santa Lucia Montane Chaparral & Woodlands", "California Interior Chaparral and Woodlands"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",        
+        "CatalogueNumber": "T.GW.1860.1",
+        "IUCNStatus": "LC Lower Risk or Least Concern"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5267970,
+          36.1587611
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The “Coast Range,” of California, from one end of the State to the other, is a vast hunting-group, in which the bear, the panther, the wolf, and the deer exist in almost countless profusion. In no single locality however, in this chain of hills, are these wild denizens of the mountain fastnesses more numerous than in the southern portion of Monterey county. Yet, here, quite a number of enterprising Americans have located themselves, for the purpose of sheep raising; the facilities of pasturage, and the advantages of climate compensating for the annoyance and risks to which their flocks are subjected from the wolves, bears, and panthers.” The Perils of the Hills, Daily Alta California, July 22, 1860. Please see the Predator Microhistory Network's entry for T.GW.1860.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
