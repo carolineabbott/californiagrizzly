@@ -2190,7 +2190,7 @@
       ]
     },
     {
-      "@id": "https://cdnc.ucr.edu/?a=d&d=SRP18600713.2.13",
+      "@id": "https://cdnc.ucr.edu/?a=d&d=SRP18600713&e=-------en--20--1--txt-txIN--------",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
@@ -2245,6 +2245,7 @@
       ]
     },
     {
+      "@id": "https://cdnc.ucr.edu/?a=d&d=SRP18600713.2.8",
       "type": "Feature",
       "properties": {
         "PredType": "Felines",
@@ -2297,6 +2298,7 @@
       ]
     },
     {
+      "@id": "https://cdnc.ucr.edu/?a=d&d=SRP18600713.2.14",
       "type": "Feature",
       "properties": {
         "PredType": "Canids",
