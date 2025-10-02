@@ -1248,6 +1248,76 @@
       ]
     },
     {
+      "@id": "https://predatormicrohistorynetwork.org/2025/10/02/the-big-bear-of-marin-gb-1860-7/",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": ["Marin", "Petaluma"],
+        "NativeLandRel": ["Graton Rancheria", "Miwok", "Coast Miwok"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "June",
+        "Day": "7",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "No relationship with maternity",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Lived",
+        "Season": "Summer",
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": "Period of normal activity following winter rest",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "1100-1200lbs",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": ["Cattle", "Hogs"],
+        "SocialGroup": ["Ranchers of the American West", "French settlers of the American west"],
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Bonnard", "Bracket", "Estey", "Poirsson", "Steadman", "Cooper"],
+        "HumanFatality": ["Human injury", "No known fatality"],
+        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": "Marin Hills",
+        "CalRiverSystem": "Salmon Creek Watershed",
+        "CalRiver": "Salmon Creek",
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily National Democrat", "Hydraulic Press", "Petaluma Journal", "Sonoma County Journal", "Marysville Daily Appeal", "Sacramento Daily Union"],
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.7",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0518971,
+          38.3596279
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A few days since, a large grizzly bear weighing 1,140 pounds, was killed on the ranch of Mr. J. S. Bracket, by a party of men. He had long been known to the ranchmen in that vicinity, and was called the “Big Bear of Marin.” Numerous attempts had been made to kill him. When first discovered by the party above mentioned, he rushed upon them, and crushed one of them to the earth, but before he had time to injure him severely, he was shot down by the others. Bracket’s Ranch Sonoma county.” Big Bear, Daily National Democrat, June 17 1860. Please see the Predator Microhistory Network's entry for GB.1860.7 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/2/21/1865_U.S._Coast_Survey_Triangulation_Map_of_San_Francisco_Bay_-_Geographicus_-_SanFranciscoBay-uscs-1865.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/21/1865_U.S._Coast_Survey_Triangulation_Map_of_San_Francisco_Bay_-_Geographicus_-_SanFranciscoBay-uscs-1865.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
