@@ -1352,7 +1352,7 @@
         "NumberHumans": "Multiple humans",
         "HumanNames": ["Bonnard", "Bracket", "Estey", "Poirsson", "Steadman", "Cooper"],
         "HumanFatality": ["Human injury", "No known fatality"],
-        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
+        "RetaliatoryMotive": "Known or suspected to be retaliatory",
         "ExtractiveLink": "Ranching",
         "MountainRange": "Marin Hills",
         "CalRiverSystem": "Salmon Creek Watershed",
@@ -1378,6 +1378,76 @@
       "descriptions": [
         {
           "value": "“On the following day a party consisting of Mr Bracket, Jules Poirsson, T. H. Estey, S. Steadman, V. Bonnard, C. L. Estey and Mr. Cooper, took his trail, and had proceeded but a short distance when, upon entering the woods, the bear rushed upon them without warning, and making at Mons. Bonnard crushed him to the earth. — As the bear approached, Bonnard discharged his rifle but without effect. Before time had been given the bear for attacking the prostrate man, T.H. Estey planted a ball in his neck, which brought him to the earth, when he was speedily dispatched. Bonnard’s injuries, wonderful to state, consisted only of a slight flesh wound on the left arm.” The Big Bear of Marin Killed, Hydraulic Press, July 7 1860. Please see the Predator Microhistory Network's entry for GB.1860.7 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/2/21/1865_U.S._Coast_Survey_Triangulation_Map_of_San_Francisco_Bay_-_Geographicus_-_SanFranciscoBay-uscs-1865.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/21/1865_U.S._Coast_Survey_Triangulation_Map_of_San_Francisco_Bay_-_Geographicus_-_SanFranciscoBay-uscs-1865.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/10/02/the-big-bear-of-marin-gb-1860-7/#GB.1860.7-9-June-1860",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Petaluma",
+        "NativeLandRel": ["Graton Rancheria", "Miwok", "Coast Miwok"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "June",
+        "Day": "9",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "No relationship with maternity",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Previously deceased",
+        "Season": "Summer",
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": "Period of normal activity following winter rest",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "1100-1200lbs",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "None",
+        "SocialGroup": ["Ranchers of the American West", "French settlers of the American west"],
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Bonnard", "Bracket", "Estey", "Poirsson", "Steadman", "Cooper"],
+        "HumanFatality": "Not applicable",
+        "RetaliatoryMotive": "Linked with prior retaliatory events or action",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": "Marin Hills",
+        "CalRiverSystem": "Salmon Creek Watershed",
+        "CalRiver": "Salmon Creek",
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily National Democrat", "Hydraulic Press", "Petaluma Journal", "Sonoma County Journal", "Marysville Daily Appeal", "Sacramento Daily Union"],
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.7",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.634144,
+          38.235312
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The bear was brought to this city on the following day, where he excited considerable interest. His weight was 1,140 pounds, which being altogether too strong for the people of this burg to stomach, his captors deemed it prudent to ship him to San Francisco, where the lovers of “bar meat” no doubt had an opportunity to gratify the taste to their full content.” The Big Bear of Marin Killed, Hydraulic Press, July 7 1860. Please see the Predator Microhistory Network's entry for GB.1860.7 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
