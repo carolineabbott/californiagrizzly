@@ -1594,6 +1594,72 @@
       ]
     },
     {
+      "@id": "https://predatormicrohistorynetwork.org/2025/10/02/the-big-bear-of-marin-gb-1860-7/#GB.1860.7-1856",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Marin",
+        "NativeLandRel": ["Graton Rancheria", "Miwok", "Coast Miwok"],
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1856",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "Unknown",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Lived",
+        "Season": "Unknown",
+        "WinterRest": "Unknown",
+        "HibernationQualities": "Unknown",
+        "PreyPresence": "Unknown",
+        "Weight": "1100-1200lbs",
+        "Length": "Length unknown",
+        "DomAnimals": "Unknown",
+        "Livestock": ["Cattle", "Hogs"],
+        "SocialGroup": "Ranchers of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "Unknown",
+        "HumanFatality": "Unknown",
+        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": "Marin Hills",
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily National Democrat", "Hydraulic Press", "Petaluma Journal", "Sonoma County Journal", "Marysville Daily Appeal", "Sacramento Daily Union"],
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.7",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.992330,
+          38.237967
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The contributions levied upon the stock-raisers of that county by his bear ship during the past four or five years has been immense, for with age also came wisdom and a sweet tooth, and during late years, a fresh bullock, calf, or a pig, has invariably been required at each and every repast in order to satisfy his appetite. In his early days, it is said, he not unfrequently returned to the dead carcass of a slaughtered bullock, for a second and even third repast, but age and experience had probably taught him the necessity of abandoning this practice, lest he in turn should fall a victim. Numerous and energetic have been the efforts made by the people of Marin to destroy this monster.” The Big Bear of Marin Killed, Hydraulic Press, July 7 1860. Please see the Predator Microhistory Network's entry for GB.1860.7 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/2/21/1865_U.S._Coast_Survey_Triangulation_Map_of_San_Francisco_Bay_-_Geographicus_-_SanFranciscoBay-uscs-1865.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/21/1865_U.S._Coast_Survey_Triangulation_Map_of_San_Francisco_Bay_-_Geographicus_-_SanFranciscoBay-uscs-1865.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
