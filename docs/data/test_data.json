@@ -2352,6 +2352,75 @@
       ]
     },
     {
+      "@id": "https://predatormicrohistorynetwork.org/2025/10/03/forthcoming-entries/#GB.1860.8",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Virginia City",
+        "NativeLandRel": ["Cayuse", "Cayuse, Umatilla, and Walla Walla", "Nisenan", "Mountain Maidu", "Northern Paiute", "Nisenan"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Unknown",
+        "Health": "Unknown",
+        "PredMortality": "Killed",
+        "Season": "Summer",
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": "Period of normal activity following winter rest",
+        "PreyPresence": "Unknown",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "Unknown",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanFatality": "No known fatality or injury",
+        "Retaliatory": "Unknown",
+        "Bloodsport": "Not involved in bloodsport",
+        "DomAnimals": "Horses",
+        "SocialGroup": "Ranchers of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Moore", "Ebenezer"],
+        "HumanFatality": "No known fatality or injury",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "Ecoregion": ["Sierra Nevada Forests", "Great Basin Shrub Steppe"],
+        "Biome": ["Temperate Conifer Forests", "Deserts & Xeric Shrublands"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Nevada Journal",
+        "ImperialRel": "American",
+        "TrackorUAN": "UAN",        
+        "CatalogueNumber": "GB.1860.8",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.315916,
+          39.449046
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“There are plenty of grizzlies in this vicinity and Moore, (who is a good fellow and a “mighty hunter,” notwithstanding the loss of an arm,) promised to show me some good sport if I could sure time on my return, in the line of grizzly hunting — he had just killed one of the animals a day or two before.” Correspondence, Nevada Journal, June 22, 1860. Please see the Predator Microhistory Network's entry for GB.1860.8 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/0/08/34._California_Saw_Mill%2C_Virginia_City.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/08/34._California_Saw_Mill%2C_Virginia_City.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
