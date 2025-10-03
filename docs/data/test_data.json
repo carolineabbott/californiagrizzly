@@ -1994,6 +1994,7 @@
       "type": "Feature",
       "properties": {
         "PredType": "Felines",
+        "FelineType": "Mountain Lion, Puma concolor",
         "Country": "United States",
         "USState": "California",
         "CACityTown": "Santa Cruz",
