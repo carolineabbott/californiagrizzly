@@ -2054,6 +2054,74 @@
       ]
     },
     {
+      "@id": "https://cdnc.ucr.edu/?a=d&d=SDU18600706.2.8",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": ["San Antonio Township", "Monterey"],
+        "NativeLandRel": ["Esselen", "Salinan", "Popeloutchom (Amah Mutsun)", "Chalon", "Rumsen", "Ohlone"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "June",
+        "Day": "25",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves one predator",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Lived",
+        "Season": "Summer",
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": "Period of normal activity following winter rest",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "Horse",
+        "Livestock": ["Cattle", "Sheep"],
+        "SocialGroup": "Ranchers of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Woodward", "Earl", "Alison"],
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": ["Santa Lucia Mountains", "California Coast Ranges"],
+        "Ecoregion": ["Santa Lucia Montane Chaparral & Woodlands", "California Interior Chaparral and Woodlands"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["San Joaquin Republican", "Sacramento Daily Union", "Daily National Democrat", "Daily Alta California", "Nevada Democrat", "Mountain Democrat", "Bulletin"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",        
+        "CatalogueNumber": "T.GB.1860.4",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.249240,
+          36.014453
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“I consider it my most painful duty to inform you and your numerous readers of the melancholy death of a young man, whose name is Barkley Woodward, a native of the State of Pennsylvania and aged about twenty-six years. He came to his death by being torn by a bear. I will relate to you the circumstances of his death. It was on Monday, the 25th of June, that the man left the place where he was encamped to go in search of some cattle which appeared to be missing.” Fatal Fight With A Grizzly, Sacramento Daily Union, July 13 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/3/3c/39._Mission_San_Antonio%2C_Monteray_co._California.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/39._Mission_San_Antonio%2C_Monteray_co._California.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
       "type": "Feature",
       "properties": {
