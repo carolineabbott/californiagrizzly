@@ -98,7 +98,7 @@
     { "name": "Print Media by US State", "path": ["properties", "PrintMedState"] },
     { "name": "California Print Media", "path": ["properties", "CalPrint"] },    
     { "name": "Origin Source Database", "path": ["properties", "SourceOrigin"] },    
-    { "name": "Catalogue Number", "path": ["properties", "CatalogueNumber"] },
+    { "name": "Catalogue Number", "path": ["properties", "CatalogueNumber"] }
     
   ],
   "link_icons": [
