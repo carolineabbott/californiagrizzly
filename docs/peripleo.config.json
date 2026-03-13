@@ -27,6 +27,7 @@
     { "name": "Health", "path": ["properties", "Health"] },
     { "name": "Details of Poor Health", "path": ["properties", "PoorHealth"] },
     { "name": "Track or Paw Length", "path": ["properties", "TrackLength"] },
+    { "name": "Track or Paw Width", "path": ["properties", "TrackWidth"] },
     { "name": "Season", "path": ["properties", "Season"] },
     { "name": "Bears by Relationship to Winter Rest", "path": ["properties", "WinterRest"] },
     { "name": "Brown Bear Behaviours", "path": ["properties", "Bearhaviours"] },
