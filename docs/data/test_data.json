@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
    {
-      "@id": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?params=/context/etd/article/5925/&path_info=McCready__20Clint.pdf",
+      "@id": "https://www.wikipedia.org/",
       "type": "Feature",
       "properties": {
         "BearType": "Grizzly Bear, Ursus arctos horribilis",
