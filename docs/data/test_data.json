@@ -108,7 +108,7 @@
         "BearType": "Grizzly Bear, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
-        "CatalogueNumber": "T.GB.1848.1",
+        "CatalogueNumber": "T.GB.1848.1A",
         "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
         "TrackorUAN": "Tracks",
         "Century": "19th century",
@@ -191,7 +191,7 @@
       },
       "descriptions": [
         {
-          "value": "“Three young Indians on the Rancho of Sen’r. Armijo, in Suisun Valley, whilst absent on foot, were attacked and killed by one of those monsters. People should be careful not to travel on foot at this season of the year, in sections of the country which abound with these desperate animals.” Grizzly Bear, The Californian, 15 March, 1848. Content notice: engage this history with respect and care. Please see the Predator Microhistory Network's entry for T.GB.1848.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Three young Indians on the Rancho of Sen’r. Armijo, in Suisun Valley, whilst absent on foot, were attacked and killed by one of those monsters. People should be careful not to travel on foot at this season of the year, in sections of the country which abound with these desperate animals.” Grizzly Bear, The Californian, 15 March, 1848. Content notice: engage this history with respect and care. Please see the Predator Microhistory Network's entry for T.GB.1848.1A and T.GB.1848.1B for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
@@ -202,7 +202,107 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/2025/06/04/t-gb-1860-1/",
+      "@id": "https://commons.wikimedia.org/wiki/Main_Page",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1848.1B",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1848",
+        "Month": "March",
+        "Day": "15",
+        "NativeLandRel": ["Suisun", "Patwin", "Miwok"],
+        "CACityTown": "Fairfield",
+        "County": "Solano",
+        "USState": "California",
+        "Country": ["United States", "Mexico"],
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "Defensive response implied with few details",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": ["Dogwood", "Oak", "Cottonwood"],
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "California Central Valley Grasslands"],
+        "Biome": ["Mediterranean Forests, Woodlands & Scrub", "Temperate Grasslands, Savannas and Shrublands"],
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "California Coast Ranges",
+        "Mountain": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "Suisun Creek",
+        "ExtractiveLink": "Unknown",
+        "ExtractivePractice": "Unknown relationship",
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "Land grants",
+        "ImperialRel": ["American", "Mexican"],
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "Jose Francisco Armijo",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Indigenous individuals and communities of the American west", "Californios and Vaqueros", "Ranchers of the American West", "Indigenous labourers and guides of the American West", "Black, Indigenous and Enslaved Arrivals to the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "The Californian",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.079401,
+          38.299340
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“People should be careful not to travel on foot at this season of the year, in sections of the country which abound with these desperate animals.” Grizzly Bear, The Californian, 15 March, 1848. Content notice: engage this history with respect and care. Please see the Predator Microhistory Network's entry for T.GB.1848.1A and T.GB.1848.1B for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Grizzly_bear_%28fc393096-0b81-4e5c-a06b-0445287bb1b4%29.jpg/1280px-Grizzly_bear_%28fc393096-0b81-4e5c-a06b-0445287bb1b4%29.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Grizzly_bear_%28fc393096-0b81-4e5c-a06b-0445287bb1b4%29.jpg/1280px-Grizzly_bear_%28fc393096-0b81-4e5c-a06b-0445287bb1b4%29.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
