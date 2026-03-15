@@ -500,6 +500,106 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Monterey%2C_Upper_California%2C_1849.jpg/1280px-Monterey%2C_Upper_California%2C_1849.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/New_Helvetia",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1848.3",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1848",
+        "Month": "April",
+        "Day": "26",
+        "NativeLandRel": ["Miwok", "Nisenan", "Cayuse, Umatilla, & Walla Walla"],
+        "CACityTown": ["New Helvetia", "Sacramento"],
+        "County": "Sacramento",
+        "USState": "California",
+        "Country": ["United States", "Mexico"],
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Spring",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "ConflictDrivers": "None referenced",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Bearhaviours": "Sleuth of bears",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": ["Tule", "Oak", "Unspecified grass", "Clover", "Wild Oats", "Willow", "Cottonwood", "Box Elder", "Alder", "White Ash", "Sycamore", "California Wild Grape"],
+        "Crops": ["Wheat", "Corn", "Barley", "Bean", "Pea", "Potato", "Turnip", "Beet", "Onion", "Cabbage", "Pumpkin", "Melon", "Apple", "Pear", "Peach"],
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Central Valley Grasslands", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Grasslands, Savannas and Shrublands", "Mediterranean Forests, Woodlands & Scrub"],
+        "Weather": ["Snow", "Pleasant conditions noted"],
+        "MajorWeather": "None referenced",
+        "MountainRange": "Sierra Nevada Mountains",
+        "Mountain": "None referenced",
+        "CalRiverSystem": ["Sacramento River System", "Feather River System"],
+        "CalRiver": ["Sacramento River", "Feather River", "American Fork Feather River"],
+        "CalCreek": ["Antelope Creek", "Mill Creek", "Deer Creek", "Pine Creek", "Chico Creek", "Bute Creek", "Cottonwood Creek", "Capoy Creek", "Stone Creek", "Cache Creek", "Putu Creek"],
+        "ExtractiveLink": ["Agriculture", "Water management"],
+        "ExtractivePractice": ["Farming", "Milling"],
+        "InfrastructureLink": ["Unspecified machinery or infrastructure", "Water, mills, and irrigation infrastructure"],
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": ["Nicolas Altgeir", "John A. Sutter"],
+        "HumanGender": "Mixed gender",
+        "SocialGroup": "Farmers of the American West",
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "The Californian",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5160386,
+          38.5606276
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The face of the country is generally prairie, clouded here and there with groves of spreading oaks, and. clothed with the richest verdure; among the various grasses clover is found growing spontaneously like thrifty meadows, especially in the damper soils where it attains great perfection, and the grizzly bear during the spring and fore part of summer come down from the mountains and out of the thickets on the river and feed upon it like herds of swine. Wild oats are not so abundant here as in other parts. The rivers are bordered with thickets of various underwood; consisting chiefly of willow, cottonwood, box elder, alder, white ash and sycamore, all thickly interwoven with grape vines.” For the Californian, The Californian, 26 April, 1848. Please see the Predator Microhistory Network's entry for T.GB.1848.2A for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sutter%27s_Fort_colored_engraving_1849.jpg/960px-Sutter%27s_Fort_colored_engraving_1849.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sutter%27s_Fort_colored_engraving_1849.jpg/960px-Sutter%27s_Fort_colored_engraving_1849.jpg"
+        }
+      ]
     }
   ]
 }
