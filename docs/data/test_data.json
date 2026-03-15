@@ -400,6 +400,106 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Monterey%2C_Upper_California%2C_1849.jpg/1280px-Monterey%2C_Upper_California%2C_1849.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/American_black_bear",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Black Bear, Ursus americanus",
+        "GBSubtype": "Not applicable",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.BB.1848.1",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1848",
+        "Month": "April",
+        "Day": "26",
+        "NativeLandRel": ["Ohlone", "Esselen", "Rumsen"],
+        "CACityTown": "Monterey",
+        "County": "Monterey",
+        "USState": "California",
+        "Country": ["United States", "Mexico"],
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Spring",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "ConflictDrivers": "Not applicable",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "Horses",
+        "Livestock": ["Horses", "Cattle", "Sheep", "Goats"],
+        "WildAnimals": ["Brown Bear", "Elk", "Deer", "Antelope", "Raccoon", "Rabbit", "Squirrel", "Cougar", "Gray Wolf", "Coyote", "Badger"],
+        "Birds": ["Goose", "Duck", "Brant", "Pelican", "Swan", "Unknown birds"],
+        "Fish": ["Sturgeon", "Salmon", "Mackerel", "Herring", "Trout", "Perch", "Shark"],
+        "Plant": ["Hemp", "Corn", "Pine", "White Pine", "Yellow Pine", "Pitch Pine", "Sugar Pine", "Long Leaf Pine", "Cedar", "White Cedar", "Red Cedar", "Redwood", "Oak", "Burr Oak", "Black Oak", "Live Oak", "Maple", "Sycamore", "Black Walnut", "Box Elder", "Alder", "Willow", "Pacific Madrone", "Toyon", "Laurel", "Ash", "Cottonwood"],
+        "Crops": ["Cotton", "Apple", "Pear", "Peach", "Nectarine", "Quince", "Fig", "Prune", "Olive", "Orange", "Lemon", "Grape", "Wheat", "Barley", "Oat", "Corn", "Potato", "Pea", "Bean", "Cabbage", "Onion", "Turnip", "Beet", "Parsnip", "Tomato", "Radish", "Lettuce", "Cucumber", "Pumpkin", "Melon"],
+        "Bugs": "None referenced",
+        "Ecoregion": ["Santa Lucia Montane Chaparral & Woodlands", "California Interior Chaparral and Woodlands"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": ["Wind", "Pleasant conditions noted"],
+        "MajorWeather": "None referenced",
+        "MountainRange": "Santa Lucia Mountains",
+        "Mountain": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Ranching", "Agriculture", "Hunting", "Fisheries and Fishing", "Mining"],
+        "ExtractivePractice": ["Hunting", "Fishing", "Ranching", "Farming"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Ranchers of the American West", "Hunters of the American West", "Miners and prospectors of the American West", "Fishing labour in the American west"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "The Californian",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8767655,
+          36.5632081
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The territory of California possesses almost every variety of climate. In the vallies near the coast, spring and summer reign perpetually. The more elevated parts near the mountain tops change from summer’s melting heat to that of winter’s chilling cold. Immediately on the coast the fury of the broad Pacific’s winds keep present almost perpetually Autumn’s bracing temperature. The soil of some of the vallies is equal to the richest we have seen in the most fertile portions of the United States, and the remainder is not inferior to the generality of the productive portions of that country. The present vegetable productions are wheat, barley, oats, (wild) corn, potatoes, peas, beans, cabbage, onions, turnips, beets, parsnips, tomatoes, radishes, lettuce, cucumbers, pumpkins, melons, &c. Hemp is found growing wild; cotton is as yet an experiment. The fruits are apples, pears, peaches, nectarines, quinces, figs, prunes, olives, oranges, lemons, grapes, &c. Animals—horses, beef cattle, sheep and goats (local), grizzly, brown and black bear, elk, deer, antelope, raccoon, rabbit, squirrel, panther, black wolf, prairie wolf, badger, &c. Fish — sturgeon, salmon, mackerel, herring, trout, perch, shark and porpoise, &c. Fowls—geese, ducks, brants, pelicans, swans and a great variety of small birds. Minerals — gold silver, quicksilver, copper. Lead and coal, but little discovered. Woods, — white pine, yellow do., pitch do., sugar do , long leaf do., white and red cedar, red-wood, burr oak, black do., live do., maple, sycamore, black walnut, box elder, alder, willow, madrona, tyon, laurel, ash, cotton-wood, &c. The great peculiarities of this climate are that rain falls plentifully in the winter season, but very seldom in summer,—the almost entire absence of lightning and great rarity of the atmosphere, and the general healthfulness of the country. California will prove a profitable field for the future action of Anglo-Saxon enterprise.” California and its Productions, The Californian, 26 April, 1848. Please see the Predator Microhistory Network's entry for T.GB.1848.2A for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Monterey%2C_Upper_California%2C_1849.jpg/1280px-Monterey%2C_Upper_California%2C_1849.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Monterey%2C_Upper_California%2C_1849.jpg/1280px-Monterey%2C_Upper_California%2C_1849.jpg"
+        }
+      ]
     }
   ]
 }
