@@ -5,7 +5,7 @@
       "@id": "https://www.wikipedia.org/",
       "type": "Feature",
       "properties": {
-        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
         "CatalogueNumber": "T.GB.1847.1",
@@ -105,7 +105,7 @@
       "@id": "https://commons.wikimedia.org/wiki/Main_Page",
       "type": "Feature",
       "properties": {
-        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
         "CatalogueNumber": "T.GB.1848.1A",
@@ -205,7 +205,7 @@
       "@id": "https://commons.wikimedia.org/wiki/Main_Page",
       "type": "Feature",
       "properties": {
-        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
         "CatalogueNumber": "T.GB.1848.1B",
@@ -305,7 +305,7 @@
       "@id": "https://en.wikipedia.org/wiki/Grizzly_bear",
       "type": "Feature",
       "properties": {
-        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
         "CatalogueNumber": "T.GB.1848.2A",
