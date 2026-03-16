@@ -728,6 +728,110 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sutter%27s_Fort_from_Gleason%27s_Pictorial_Drawing_Room_Companion.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Preemption_Act_of_1841",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1849.2",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1841",
+        "Month": "September",
+        "Day": "4",
+        "NativeLandRel": ["Washoe", "Cayuse, Umatilla, & Walla Walla", "Nisenan", "Mountain Maidu", "Newe Sogobia (Western Shoshone)", "Pit River", "Modoc", "Yahooskin"],
+        "CACityTown": "Not applicable",
+        "County": ["United States", "Mexico", "Russia"],
+        "USState": "Not applicable",
+        "MexTerr": "Alta California",
+        "Country": ["United States", "Mexico"],
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Not applicable",
+        "WinterRest": "Not applicable",
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "None referenced",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Not applicable",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "Sierra Nevada Forests",
+        "Biome": "Temperate Conifer Forests",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Sierra Nevada Mountains", "Rocky Mountains"],
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": "Public land sales and squatters rights",
+        "ExtractivePractice": "Public land sales and squatters rights",
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": ["Preemption Act of 1841", "Land grants"],
+        "ImperialRel": ["American", "Mexican", "Russian"],
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "Lewis Fields Linn",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": "Scientists, explorers, and government officials in the American West",
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Not applicable",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Pacific News",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.466844,
+          39.334958
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A Great Vision made Reality. In 1841 a very distinguished orator, in the Senate of the United States, in a speech upon the Pre-emption Bill, uttered the following prophetic language. What was prediction then, is about to become history now. “If to the other ties that bind us together as one people, he superadded the powerful interest springing out of' a just administration of our exhaustless public domain —by which, for a long succession of ages, in seasons of peace, the states will enjoy the benefit of the great and growing revenue which it produces, and in periods of war that revenue will be applied to the prosecution of the war—we shall be forever linked together with the strength of adamantine chains. No section, no state, would ever be mad enough to break off from the Union, and deprive itself of the inestimable advantages which it secures. Although thirty or forty more of the new states should be admitted into this Union, this measure would cement them all fast together. The honorable member from Missouri near me, (Mr. Linn,) is very anxious to have a settlement formed at the mouth of the Oregon, and he will probably be satisfied at no very distant day. Then will be seen members from the Pacific States scaling the Rocky Mountains, passing the country of the grizzly bear, descending the turbid Missouri, entering the father of rivers, ascending the beautiful Ohio, and coming to this capitol to take their seats in its spacious and magnificent halls. Proud of the commission they bear, and happy to find themselves here in council with friends and brothers and countrymen, enjoying the incalculable advantages of the great confederacy, and among them their annual distributive share of the is sues of a nation’s inheritance, would even they, the remote people of the Pacific, ever desire to separate themselves from such a high and glorious destiny?”.” A Great Vision Made Reality, Daily Pacific News, 15 November, 1849. Please see the Predator Microhistory Network's entry for T.GB.1849.2 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg/1280px-Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg/1280px-Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg"
+        }
+      ]
     }
   ]
 }
