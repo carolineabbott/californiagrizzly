@@ -624,6 +624,110 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sutter%27s_Fort_colored_engraving_1849.jpg/960px-Sutter%27s_Fort_colored_engraving_1849.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1849.1",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1849",
+        "Month": "March",
+        "Day": "1",
+        "NativeLandRel": ["Nisenan", "Cayuse, Umatilla, & Walla Walla"],
+        "CACityTown": ["Sacramento", "New Helvetia"],
+        "County": "United States",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": ["United States", "Mexico"],
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "None referenced",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": ["None referenced", "Feral livestock referenced"],
+        "WildAnimals": ["Wild Cattle", "Wild Horses", "Elk", "Deer", "Antelope"],
+        "Birds": ["Partridge", "Unknown water fowl"],
+        "Fish": "Salmon",
+        "Plant": "None referenced",
+        "Crops": ["Apple", "Orange", "Potato", "Sugarcane"],
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Central Valley Grasslands", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Grasslands, Savannas and Shrublands", "Mediterranean Forests, Woodlands & Scrub"],
+        "Weather": ["Rain", "Drought or dry conditions", "Pleasant conditions noted", "Heat"],
+        "MajorWeather": "None referenced",
+        "MountainRange": "Sierra Nevada Mountains",
+        "Mountain": "None referenced",
+        "Valley": ["Sacramento Valley", "Central Valley", "San Joaquin Valley"],
+        "CalRiverSystem": "Sacramento River System",
+        "CalRiver": ["Sacramento River", "San Joaquin River"],
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Mining", "Prospecting"],
+        "ExtractivePractice": ["Mining", "Prospecting", "Hunting", "Fisheries and Fishing"],
+        "InfrastructureLink": ["Water, mills, and irrigation infrastructure", "Military"],
+        "CompanyLink": "None referenced",
+        "GovtLink": "United States Army",
+        "ImperialRel": ["American", "Mexican"],
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": ["John Charles Frémont", "David Wilmot"],
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Miners and prospectors of the American West", "Scientists, explorers, and government officials in the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California and Weekly Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.471253,
+          38.572599
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Col. Fremont's Geographical Memoir on Upper California thus speaks of the climate of the gold region: The gold region of California is on the Sacramento river and its tributaries. The climate of the country has no winter in the valley, but the rainy season and the dry. The rainy season begins in November and continues to the middle of February or the beginning of March; the rest of the year is without rain; but the streams from the Sierra Nevada afford all the facilities for irrigation in the heats of July and August. The whole valley abounds in wild cattle, wild horses, elks, deer, antelopes, grizzly bears, partridges, water-fowI, salmon, &c. All the products of the United States, from apples to oranges, from potatoes to sugarcane, may be produced in the valley of the San Joaquin and Sacramento. The climate is remarkably healthy. Such is the California on the Pacific; the richest, most picturesque and beautiful region, for its extent, upon the face of the earth Such is the Eldorado of the gold mines; such is the great acquisition of the late war with Mexico. The California gold-finding scheme turns out, it is said, to be merely a hoax or rather, a delusion. The imaginary gold is but a very common valueless mineral, yellow mica. Many of our early voyagers were deceived the same way. Liverpool Mercury. That will be news indeed when it reaches California. Those who cannot tell yellow mica from gold could hardly find their way to that out-of-the-way country. Perhaps when the “Wilmot Proviso” extends to California, the gold miners will become more enlightened — New York Sun, The California Gold.” The California Gold, Weekly Alta California, 1 March, 1849. Please see the Predator Microhistory Network's entry for T.GB.1849.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sutter%27s_Fort_from_Gleason%27s_Pictorial_Drawing_Room_Companion.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sutter%27s_Fort_from_Gleason%27s_Pictorial_Drawing_Room_Companion.jpg"
+        }
+      ]
     }
   ]
 }
