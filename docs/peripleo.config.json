@@ -31,6 +31,7 @@
     { "name": "Track or Paw Width", "path": ["properties", "TrackWidth"] },
     { "name": "Season", "path": ["properties", "Season"] },
     { "name": "Relationship to Winter Rest Period", "path": ["properties", "WinterRest"] },
+    { "name": "Relationship to Select Standardized Bear Management Terms (Lackey et. al. 2025)", "path": ["properties", "StandardLang"] },    
     { "name": "Brown Bear Behaviours", "path": ["properties", "Bearhaviours"] },
     { "name": "Brown Bear Defensive Behaviours", "path": ["properties", "Defensive"] },
     { "name": "Brown Bear Non-Defensive Behaviours", "path": ["properties", "NonDefensive"] },
