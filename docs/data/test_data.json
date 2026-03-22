@@ -1672,6 +1672,110 @@
         "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1859.3",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1859",
+        "Month": "December",
+        "Day": "28",
+        "NativeLandRel": ["Miwok", "Me-Wuk (Coast Miwok)", "Me-Wuk (Bay Miwok)", "Ohlone", "Ramaytush", "Muwekma", "Graton Rancheria", "Confederated Villages of Lisjan", "Karkin"],
+        "CACityTown": "San Fransisco",
+        "County": "City and County of San Francisco",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Unknown",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "Unknown",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Winter",
+        "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to “predenning” or denning preceding winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Unknown",
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Unknown",
+        "CuriousBear": "Unknown",
+        "Sympatry": "Unknown", 
+        "Bearhaviours": "Unknown",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Unknown",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "Cattle",
+        "WildAnimals": ["Deer", "Geese", "Duck", "Elk", "Hare", "Rabbit", "Cougar", "Unknown Wild Felid", "Beaver", "Unknown animals"],
+        "Birds": ["Sand-Hill Crane", "Unknown birds", "Snipe", "Curlew", "Plover", "Quail", "Wood-Cock"],
+        "Fish": ["Unknown fish", "Unknown molluscs and shellfish"],
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "Northern California Coastal Forests"],
+        "Biome": ["Mediterranean Forests, Woodlands & Scrub", "Temperate Conifer Forests"],
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "None referenced",
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Fisheries and Fishing", "Ranching"],
+        "ExtractivePractice": ["Hunting", "Fishing", "Ranching"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Hunters of the American West", "Ranchers of the American West", "Fishing labour in the American west", "Social elites of the American West"],
+        "HumanFatality": "Unknown",
+        "HumanInjury": "Unknown",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Unknown",
+        "CorpusComm": "Meat",
+        "PredMortality": "Killed",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily National Democrat",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.388139,
+          37.746760
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "Wild Meats in San Francisco. — The market of San Francisco is supplied with a great variety of wild meat from quadrupeds, birds, fishes, and molluscas—the whole coast from Puget Sound to San Diego bearing tribute to our market. Venison, geese, and ducks are as cheap as beef. Elk is abundant. Scarcely a week passes without the appearance of at least one grizzly bear’s carcass in the market house. Sand-hill cranes, hare, rabbit, wood-cock, snipe, curlew, plover, and quail, are not rare, and occasionally we see the carcasses of catamounts, wild cats and beavers, all of which are eaten. The beavers are sometimes hung up at the doors of first class restaurants. — Alta.” GB.1859.3, Daily National Democrat, 8 January, 1860. Please see the Predator Microhistory Network's entry for GB.1859.3 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1280px-Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1280px-Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
         "CatalogueNumber": "GB.1860.9",
         "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
         "TrackorUAN": "UAN",
@@ -1753,8 +1857,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.388139,
-          37.746760
+          -122.388120,
+          37.746740
         ]
       },
       "descriptions": [
