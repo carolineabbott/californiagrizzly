@@ -1551,13 +1551,117 @@
       },
       "descriptions": [
         {
-          "value": "“The presence of numerous grizzly bears near town is reported; the heavy fall of snow in the Sierra Nevadas has driven the deer, bear, and other large game down to the snowless region.” T.GB.1859.1, San Joaquin Republican, 20 January, 1859. Please see the Predator Microhistory Network's entry for T.GB.1859.1 for full context and citations. Content notice: engage this history with respect and care. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“The presence of numerous grizzly bears near town is reported; the heavy fall of snow in the Sierra Nevadas has driven the deer, bear, and other large game down to the snowless region.” T.GB.1859.1, San Joaquin Republican, 20 January, 1860. Please see the Predator Microhistory Network's entry for T.GB.1859.1 for full context and citations. Content notice: engage this history with respect and care. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif/lossy-page1-1280px-Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif/lossy-page1-1280px-Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/05/31/t-gb-1859-2/",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1859.2",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1859",
+        "Month": "November",
+        "Day": "23",
+        "NativeLandRel": ["Miwok", "Me-Wuk (Central Sierra Miwok)", "Northern Sierra Miwok", "Plains Miwok"],
+        "CACityTown": "San Andreas",
+        "County": "Calaveras County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Autumn",
+        "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to “predenning” or denning preceding winter rest"],
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "Not applicable", 
+        "Bearhaviours": "Not applicable",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "Unknown",
+        "Livestock": "Unknown",
+        "WildAnimals": "Deer",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "Chaparral",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "Sierra Nevada Forests"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": ["Snow", "Rain", "Mountain runoff", "Flood", "Unseasonable conditions"],
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Bear Mountain Range", "Sierra Nevada Mountains"],
+        "Mountain": "Bear Mountain",
+        "Valley": "Salt Spring Valley",
+        "CalRiverSystem": ["San Joaquin River System", "Calaveras River System"],
+        "CalRiver": "Calaveras River",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Mining", "Prospecting", "Water management"],
+        "ExtractivePractice": "Unknown relationship",
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Hunters of the American West", "Miners and prospectors of the American West", "Chinese emigrants, labourers, and communities of the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["San Joaquin Republican", "Sacramento Daily Union", "Daily National Democrat", "Nevada Democrat", "Petaluma Weekly Argus"],
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.716773,
+          38.163212
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The Independent says: “Hunters report that quite a number of the dangerous customers have their lairs among the chnpparcl and rocks north-east of Salt Spring Valley, and not over three miles from San Andreas. The late heavy falls of snow in the Sierra Nevada mountains, have driven the deer, bear and all other large game down to the snowless region, and our hunters are enjoying a rich harvest of sport.” T.GB.1859.2, Daily National Democrat, 23 November, 1859. Please see the Predator Microhistory Network's entry for T.GB.1859.1 for full context and citations. Content notice: engage this history with respect and care. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg/1280px-Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg/1280px-Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg"
         }
       ]
     }
