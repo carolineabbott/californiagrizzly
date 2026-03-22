@@ -1759,7 +1759,7 @@
       },
       "descriptions": [
         {
-          "value": "Wild Meats in San Francisco. — The market of San Francisco is supplied with a great variety of wild meat from quadrupeds, birds, fishes, and molluscas—the whole coast from Puget Sound to San Diego bearing tribute to our market. Venison, geese, and ducks are as cheap as beef. Elk is abundant. Scarcely a week passes without the appearance of at least one grizzly bear’s carcass in the market house. Sand-hill cranes, hare, rabbit, wood-cock, snipe, curlew, plover, and quail, are not rare, and occasionally we see the carcasses of catamounts, wild cats and beavers, all of which are eaten. The beavers are sometimes hung up at the doors of first class restaurants. — Alta.” GB.1859.3, Daily National Democrat, 8 January, 1860. Please see the Predator Microhistory Network's entry for GB.1859.3 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Wild Meats in San Francisco. — The market of San Francisco is supplied with a great variety of wild meat from quadrupeds, birds, fishes, and molluscas—the whole coast from Puget Sound to San Diego bearing tribute to our market. Venison, geese, and ducks are as cheap as beef. Elk is abundant. Scarcely a week passes without the appearance of at least one grizzly bear’s carcass in the market house. Sand-hill cranes, hare, rabbit, wood-cock, snipe, curlew, plover, and quail, are not rare, and occasionally we see the carcasses of catamounts, wild cats and beavers, all of which are eaten. The beavers are sometimes hung up at the doors of first class restaurants. — Alta.” GB.1859.3, Daily National Democrat, 8 January, 1860. Please see the Predator Microhistory Network's entry for GB.1859.3 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
@@ -1863,13 +1863,117 @@
       },
       "descriptions": [
         {
-          "value": "Wild Meats in San Francisco. — The market of San Francisco is supplied with a great variety of wild meat from quadrupeds, birds, fishes, and molluscas—the whole coast from Puget Sound to San Diego bearing tribute to our market. Venison, geese, and ducks are as cheap as beef. Elk is abundant. Scarcely a week passes without the appearance of at least one grizzly bear’s carcass in the market house. Sand-hill cranes, hare, rabbit, wood-cock, snipe, curlew, plover, and quail, are not rare, and occasionally we see the carcasses of catamounts, wild cats and beavers, all of which are eaten. The beavers are sometimes hung up at the doors of first class restaurants. — Alta.” GB.1860.9, Daily National Democrat, 8 January, 1860. Please see the Predator Microhistory Network's entry for GB.1860.9 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Wild Meats in San Francisco. — The market of San Francisco is supplied with a great variety of wild meat from quadrupeds, birds, fishes, and molluscas—the whole coast from Puget Sound to San Diego bearing tribute to our market. Venison, geese, and ducks are as cheap as beef. Elk is abundant. Scarcely a week passes without the appearance of at least one grizzly bear’s carcass in the market house. Sand-hill cranes, hare, rabbit, wood-cock, snipe, curlew, plover, and quail, are not rare, and occasionally we see the carcasses of catamounts, wild cats and beavers, all of which are eaten. The beavers are sometimes hung up at the doors of first class restaurants. — Alta.” GB.1860.9, Daily National Democrat, 8 January, 1860. Please see the Predator Microhistory Network's entry for GB.1860.9 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1280px-Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1280px-Montgomery_Street%2C_from_New_Montgomery_and_Market_Streets%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Sutter%27s_Mill",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1860.15",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "January",
+        "Day": "21",
+        "NativeLandRel": ["Miwok", "Me-Wuk (Coast Miwok)", "Me-Wuk (Bay Miwok)", "Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Yokuts", "Nyyhmy (Western Mono / Monache)", "Nüümü Witü (Eastern Mono/Monache)", "Tübatulabal", "Nüümü (Northern Paiute)", "Newe Segovia (Western Shoeshone)"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": "Not applicable",
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "Unknown",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Interior Chaparral and Woodlands",
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Sierra Nevada Mountains", "Sierra Nevada Foothills"],
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "American River System",
+        "CalRiver": ["American River", "South Fork American River"],
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Mining", "Prospecting"],
+        "ExtractivePractice": ["Mining", "Prospecting"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Male",
+        "SocialGroup": ["Miners and prospectors of the American West", "Indigenous individuals and communities of the American west"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily National Democrat",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8806953,
+          38.7932455
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Nothing could be more interesting to the coming generation than to read, in a company and faithful contemporary narrative, how gold, the creative power and the element of the growth of their native country, was first discovered; how their forefathers flocked to the foot-hills of the mighty Sierra, just like another band of Argonauts, in search of a “golden fleece;” how the discoveries spread in all directions; how busy mining camps, humming villages and flourishing towns sprang up in spots, which the wild Digger Indian and the grizzly bear disputed to each other only a short while ago, etc.” T.GB.1860.15, Daily Alta California, 21 January, 1860. Content notice: engage this history with respect and care. Please see the Predator Microhistory Network's entry for T.GB.1860.15 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/In_the_Sierra_Nevada_-_Richard_F._Burton.tif/lossy-page1-1010px-In_the_Sierra_Nevada_-_Richard_F._Burton.tif.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/In_the_Sierra_Nevada_-_Richard_F._Burton.tif/lossy-page1-1010px-In_the_Sierra_Nevada_-_Richard_F._Burton.tif.jpg"
         }
       ]
     }
