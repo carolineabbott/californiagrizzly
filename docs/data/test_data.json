@@ -1352,6 +1352,110 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CAM_Taber%2C_Sacramento_in_October_1848.jpg/1280px-CAM_Taber%2C_Sacramento_in_October_1848.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/05/30/gb-1859-1/",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1859.1",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1859",
+        "Month": "November",
+        "Day": "18",
+        "NativeLandRel": ["Miwok", "Central Sierra Miwok", "Northern Sierra Miwok", "Plains Miwok"],
+        "CACityTown": "San Andreas"
+        "County": "Calaveras County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "500-600lbs",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Autumn",
+        "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to “predenning” or denning preceding winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Unknown",
+        "CuriousBear": "Unknown",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Unknown",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "Unknown",
+        "Livestock": "Unknown",
+        "WildAnimals": "Deer",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "Chaparral",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "Sierra Nevada Forests"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": ["Snow", "Rain", "Mountain runoff", "Flood", "Unseasonable conditions"],
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Bear Mountain Range", "Sierra Nevada Mountains"],
+        "Mountain": "Bear Mountain",
+        "Valley": "Salt Spring Valley",
+        "CalRiverSystem": ["San Joaquin River System", "Calaveras River System"],
+        "CalRiver": "Calaveras River",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Mining", "Prospecting", "Water management"],
+        "ExtractivePractice": "Hunting",
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "2",
+        "HumanNames": "Mark McNicholas",
+        "HumanGender": "Male",
+        "SocialGroup": ["Hunters of the American West", "Miners and prospectors of the American West", "Chinese emigrants, labourers, and communities of the American West"],
+        "HumanFatality": "No known fatality",
+        "HumanInjury": "No known injury",
+        "Retaliatory": "Not known to be retaliatory",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": ["Meat", "Organs", "Gall Bladder"],
+        "PredMortality": "Killed",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["San Joaquin Republican", "Sacramento Daily Union", "Daily National Democrat", "Nevada Democrat", "Petaluma Weekly Argus"],
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.716853,
+          38.163292
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The San Andreas Independent states that two hunters who killed a grizzly bear on Bear Mountain, some two weeks ago, realized quite a handsome reward from the adventure. Besides the meat, which at twenty cents a pound was worth $120, they sold the gall to some Chinese for $30. The Celestials sent it to China, to be used as an agent in coloring.” GB.1859.1, Petaluma Weekly Argus, 6 January, 1860. Please see the Predator Microhistory Network's entry for GB.1859.1 for full context and citations. Content notice: engage this history with respect and care. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_American_Buildings_Survey_Sacramento_Chamber_of_Commerce%2C_Calif._Original-_1860_GENERAL_VIEW_-_Metropolitan_Hotel%2C_San_Andreas%2C_Calaveras_County%2C_CA_HABS_CAL%2C5-SAND%2C7-1.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_American_Buildings_Survey_Sacramento_Chamber_of_Commerce%2C_Calif._Original-_1860_GENERAL_VIEW_-_Metropolitan_Hotel%2C_San_Andreas%2C_Calaveras_County%2C_CA_HABS_CAL%2C5-SAND%2C7-1.tif/lossy-page1-1280px-thumbnail.tif.jpg"
+        }
+      ]
     }
   ]
 }
