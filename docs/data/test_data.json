@@ -2042,7 +2042,7 @@
         "ExtractiveLink": ["Mining", "Prospecting", "Farming", "Logging and forestry", "Water management", "Ranching", "Agriculture"],
         "ExtractivePractice": ["Mining", "Prospecting", "Farming", "Water management labour", "Ranching", "Fishing"],
         "InfrastructureLink": ["Steamboats", "Ferries", "Dredging machinery", "Steam-powered machinery", "Water, mills, and irrigation infrastructure", "Fishing boats, tools, and machinery", "Omnibuses", "Stagecoaches and wagons", "Roads and highways", "Agricultural machinery", "Wind Mills", "Mining infrastructure"],
-        "CompanyLink": "Oriental Hotel",
+        "CompanyLink": "None referenced",
         "GovtLink": "New Almaden Mine Case",
         "ImperialRel": "American",
         "NumberHumans": "This microhistory refers to a population of humans",
@@ -2078,6 +2078,110 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/New_Alm_smelter.jpg/1280px-New_Alm_smelter.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/New_Alm_smelter.jpg/1280px-New_Alm_smelter.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/San_Francisquito_Creek",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1860.17",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1849",
+        "Month": "August",
+        "Day": "1",
+        "NativeLandRel": ["Miwok", "Me-Wuk (Coast Miwok)", "Me-Wuk (Bay Miwok)", "Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Yokuts", "Nyyhmy (Western Mono / Monache)", "Nüümü Witü (Eastern Mono/Monache)", "Tübatulabal", "Nüümü (Northern Paiute)", "Newe Segovia (Western Shoeshone)"],
+        "CACityTown": ["San Francisco", "Marysville", "Santa Cruz", "Monterey", "Oakland", "Yerba Buena", "Encinal / Alameda", "San Antonio", "San Jose", "San Mateo", "Redwood City", "Santa Clara", "New Almaden (Nuevo Almadén)"],
+        "County": "Not applicable",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Summer",
+        "WinterRest": "Not applicable",
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "Unknown",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "Horses",
+        "Livestock": ["Cattle", "Horses"],
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": ["Oak", "Live Oak", "Rose", "Heliotrope", "Bay", "Wild Oats", "Unspecified plant", "Poison Oak", "California Horse-Chestnut", "Sycamore", "Redwood and Sequoia", "Old Man’s Beard", "Prickly Pear (Opuntia)"],
+        "Crops": ["Apple", "Pear", "Grape", "Peach", "Fig", "Pomegranate", "Cabbage", "Onion", "Celery", "Corn", "Sugar Cane", "Beet", "Strawberry", "Raspberry", "Wheat", "Prickly Pear (Opuntia)", "Wild mustard"],
+        "Bugs": "None referenced",
+        "Ecoregion": "California Interior Chaparral and Woodlands",
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": ["Drifting sand", "Pleasant conditions noted", "Drought or dry conditions", "Wind", "Frost", "Heat", "Cold", "Sun", "Fog", "Dust"],
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Sierra Nevada Mountains", "California Coast Ranges", "Santa Cruz Mountains", "Santa Teresa Hills", "The Sierra Azul"],
+        "Mountain": "San Bruno Mountain",
+        "Valley": ["Valley of San Jose", "Central Valley", "Almaden Valley"],
+        "CalRiverSystem": "San Francisquito Creek",
+        "CalRiver": "Guadalupe River",
+        "CalCreek": "Los Alamitos Creek",
+        "ExtractiveLink": ["Mining", "Prospecting", "Ranching", "Agriculture"],
+        "ExtractivePractice": ["Mining", "Prospecting"],
+        "InfrastructureLink": "",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": ["American", "Mexican"],
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": ["Bayard Taylor", "Ross Browne", "Sanchez", "Captain Frederick William Macondray", "Peralta"],
+        "HumanGender": "Male",
+        "SocialGroup": ["Miners and prospectors of the American West", "Indigenous individuals and communities of the American west", "Farmers of the American West", "Women and girls of the American West", "Social elites of the American West", "Californios and Vaqueros", "Indigenous labourers and guides of the American West", "Mexican labourers and guides of the American West", "Mexican individuals and communities of the American West", "Spanish-speaking individuals and communities of the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": ["California", "New York"],
+        "CalPrint": "Sacramento Daily Union",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3998842,
+          37.7914156
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The difference between a trail through a wilderness and a fenced in road, with bridges, taverns, incipient villages even, scattered along it, was greater than I imagined. ‘Where are the nine league ranches of the active Californians?’ I asked. ‘They have been swindled out of them.’ ‘Where are the grizzly bears and coyotes?’ ‘They have been killed off.’ ‘Where are the endless herds of cattle?’ ‘Butchered for the San Francisco market.’ ‘Who cut down the magnificent trees that once stood here?’ ‘The Pikes.’ Here I must make an explanation. A ‘Pike’ in the California dialect, is a native of Missouri, Arkansas, Northern Texas, or Southern Illinois. The first emigrants that came over the plans were from Pike county, Missouri; but as the phrase ‘a Pike county man’ was altogether too long for this short life of ours, it was soon abbreviated into ‘a Pike.’” T.GB.1860.17, Sacramento Daily Union, 30 January, 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.17 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg/1280px-CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg/1280px-CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg"
         }
       ]
     }
