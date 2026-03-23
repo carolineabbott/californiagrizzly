@@ -1990,7 +1990,7 @@
         "Century": "19th century",
         "Decade": "1850-1859",
         "Year": "1859",
-        "Month": "August",
+        "Month": "September",
         "Day": "1",
         "NativeLandRel": ["Miwok", "Me-Wuk (Coast Miwok)", "Me-Wuk (Bay Miwok)", "Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Yokuts", "Nyyhmy (Western Mono / Monache)", "Nüümü Witü (Eastern Mono/Monache)", "Tübatulabal", "Nüümü (Northern Paiute)", "Newe Segovia (Western Shoeshone)"],
         "CACityTown": ["San Francisco", "Marysville", "Santa Cruz", "Monterey", "Oakland", "Yerba Buena", "Encinal / Alameda", "San Antonio", "San Jose", "San Mateo", "Redwood City", "Santa Clara", "New Almaden (Nuevo Almadén)"],
@@ -2094,7 +2094,7 @@
         "Century": "19th century",
         "Decade": "1840-1849",
         "Year": "1849",
-        "Month": "August",
+        "Month": "September",
         "Day": "1",
         "NativeLandRel": ["Miwok", "Me-Wuk (Coast Miwok)", "Me-Wuk (Bay Miwok)", "Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Yokuts", "Nyyhmy (Western Mono / Monache)", "Nüümü Witü (Eastern Mono/Monache)", "Tübatulabal", "Nüümü (Northern Paiute)", "Newe Segovia (Western Shoeshone)"],
         "CACityTown": ["San Francisco", "Marysville", "Santa Cruz", "Monterey", "Oakland", "Yerba Buena", "Encinal / Alameda", "San Antonio", "San Jose", "San Mateo", "Redwood City", "Santa Clara", "New Almaden (Nuevo Almadén)"],
@@ -2182,6 +2182,110 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg/1280px-CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg/1280px-CF1850_PORTSMOUTH_SQUARE%2C_SAN_FRANCISCO.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Redwood_City,_California",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1860.18",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "February",
+        "Day": "4",
+        "NativeLandRel": ["Ramaytush", "Muwekma", "Ohlone"],
+        "CACityTown": "	Redwood City",
+        "County": "San Mateo County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to winter rest period, torpor sleep, or hibernation"],
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": ["Unknown animals", "Deer"],
+        "Birds": ["Duck", "Unknown water fowl", "Teal", "Curlew", "Spoon-Bill", "Willet", "Lesser Scaup (Broadbill or Little Bluebill)", "Mallard Duck", "Canvasback", "Gray Duck (Gadwall)", "Unknown birds", "Quail"],
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "Santa Cruz Mountains",
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Fisheries and Fishing"],
+        "ExtractivePractice": ["Hunting", "Fishing"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "2",
+        "HumanNames": ["Smith", "Sampson"],
+        "HumanGender": "Male",
+        "SocialGroup": ["Hunters of the American West", "Fishing labour in the American west"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Sacramento Daily Union",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3036139,
+          37.4066066
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Game. — Game is now very abundant in the vicinity of this place, particular upon the marshes, skirting the line of the Bay. Hunting, we think from the quantity of birds killed and brought into town, must be a good “paying” business. Sunday last, Messrs. Smith and Sampson, hunters, Brought into town, on their way to market, at San Francisco, a large quantity of ducks and other water fowl, as follows: fifty-eight teal, twenty-four curlew, seventeen spoon-bill, twenty-four willets, one broad-bill, one mallard, one canvass-back, and one gray duck. These were the results of a twenty-four hours’ hunt, and are exclusive of about three dozen of various kinds which were otherwise disposed of, making the whole number of birds killed, one hundred and fifty-one. This is but a fair sample of the number which two expert sportsmen might kill in twenty-four hours, to judge by the excellent facilities afforded, as told of by the hunters. While on this topic, it is but fair to speak of the hunting and fishing we ‘hear tell’ of in the mountains but a few miles off, and which we long to participate in, and hope to, in a short time. Quail are abundant almost beyond belief, and other small game are found in large quantities. Deer are numerous, and occasionally the hunter meets with an unwelcome prowler in the shape of a huge grizzly bear. A meeting with this latter-named animal was not included in the anticipated sport above spoken of.” T.GB.1860.18, Times Gazette, 4 February, 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.18 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Redwood_City_-_general_view_from_the_north_LCCN2002719091.jpg/1280px-Redwood_City_-_general_view_from_the_north_LCCN2002719091.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Redwood_City_-_general_view_from_the_north_LCCN2002719091.jpg/1280px-Redwood_City_-_general_view_from_the_north_LCCN2002719091.jpg"
         }
       ]
     }
