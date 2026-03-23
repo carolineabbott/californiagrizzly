@@ -2039,7 +2039,7 @@
         "CalRiverSystem": "San Francisquito Creek",
         "CalRiver": "Guadalupe River",
         "CalCreek": "Los Alamitos Creek",
-        "ExtractiveLink": ["Mining", "Prospecting", "Farming", "Logging and forestry", "Water management", "Ranching", "Agriculture"],
+        "ExtractiveLink": ["Mining", "Prospecting", "Logging and forestry", "Water management", "Ranching", "Agriculture"],
         "ExtractivePractice": ["Mining", "Prospecting", "Farming", "Water management labour", "Ranching", "Fishing"],
         "InfrastructureLink": ["Steamboats", "Ferries", "Dredging machinery", "Steam-powered machinery", "Water, mills, and irrigation infrastructure", "Fishing boats, tools, and machinery", "Omnibuses", "Stagecoaches and wagons", "Roads and highways", "Agricultural machinery", "Wind Mills", "Mining infrastructure"],
         "CompanyLink": "None referenced",
@@ -2494,6 +2494,110 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gilman_%28United_States_%28after_the_Treaty_of_Guadalupe_Hidalgo%29%29_1848_UTA.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gilman_%28United_States_%28after_the_Treaty_of_Guadalupe_Hidalgo%29%29_1848_UTA.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Lillooet",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1859.4",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1859",
+        "Month": "December",
+        "Day": "21",
+        "NativeLandRel": ["St̓át̓imc (St’at’imc)", "Dene (Dënéndeh)", "Tŝilhqot’in", "Nlaka’pamux"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Not applicable",
+        "Country": "Great Britain",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to winter rest period, torpor sleep, or hibernation"],
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "Referenced or implied", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": ["Mule", "Cattle"],
+        "WildAnimals": ["Reindeer or Caribou", "Black Bear"],
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "Wheat",
+        "Bugs": "None referenced",
+        "Ecoregion": "Okanogan Dry Forests",
+        "Biome": "Temperate Conifer Forests",
+        "Weather": "Snow",
+        "MajorWeather": "None referenced",
+        "MountainRange": "None referenced",
+        "Mountain": "None referenced",
+        "Valley": "Fraser Valley",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Mining", "Prospecting", "Agriculture", "Hunting"],
+        "ExtractivePractice": ["Mining", "Prospecting", "Farming"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "British",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "Wade",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Miners and prospectors of British Columbia", "Hunters of Western Canada"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Daily Alta California", "Victoria Gazette"],
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.935056,
+          50.694974
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Affairs is the Upper Fraiser Valley. — A correspondent of the Victoria Gazette, writing from Cayoosh Flat, on the 21st December, inst., says [...] The upper country abounds with game — reindeer as large as oxen, weighing from 500 to 900 pounds; grizzly and black bears,.” T.GB.1859.4, Daily Alta California, 24 February, 1860. Please see the Predator Microhistory Network's entry for T.GB.1859.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg/1280px-Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg/1280px-Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg"
         }
       ]
     }
