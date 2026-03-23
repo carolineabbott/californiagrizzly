@@ -2392,6 +2392,110 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Boundary_between_the_United_States_%26_Mexico_agreed_upon_by_the_Joint_Commission_under_the_Treaty_of_Guadalupe_Hidalgo_-_surveyed_in_1852-53_under_the_direction_of_Bvt._Major_W.H._Emory%2C_Corps_of_LOC_2014589439.jpg/1280px-thumbnail.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1860.19B",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "February",
+        "Day": "20",
+        "NativeLandRel": ["Miwok", "Me-Wuk (Coast Miwok)", "Me-Wuk (Bay Miwok)", "Maidu", "Mountain Maidu", "Washoe", "Nisenan", "Yokuts", "Nyyhmy (Western Mono / Monache)", "Nüümü Witü (Eastern Mono/Monache)", "Tübatulabal", "Nüümü (Northern Paiute)", "Newe Segovia (Western Shoeshone)"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": ["United States", "Mexico"],
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": "Not applicable",
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Interior Chaparral and Woodlands",
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "None referenced",
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Mining", "Prospecting"],
+        "ExtractivePractice": ["Mining", "Prospecting"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "None referenced",
+        "GovtLink": "Anti-Vagrancy Act 1855 (Greaser Act)",
+        "ImperialRel": ["American", "Mexican"],
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Miners and prospectors of the American West", "Indigenous individuals and communities of the American west", "Indigenous labourers and guides of the American West", "Mexican labourers and guides of the American West", "Mexican individuals and communities of the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Sacramento Daily Union",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8806975,
+          38.7932470
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The newspapers and orators here are a little prone upon every possible occasion to reflect that but ten short years ago this place was owned and occupied by greasers, grizzlies and red men; that now there is not only nary a greaser, nary a grizzly and nary a red — but we have a splendid metropolis, with all the arts and appliances of civilization, which will not suffer in comparison with any other city of the civilized world, etc., etc., etc. But this is excusable. They have much to be proud — have accomplished wonders. They have splendid structures, fanes of learning, temples of religion, benevolent institutions, mansions of justice, and a chain gang worthy of a city of four times its age and population.” T.GB.1860.19B, Sacramento Daily Union, 20 February, 1860. Please see the Predator Microhistory Network's entry for T.GB.1860.19B for full context and citations. Content notice: engage this history with respect and care. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gilman_%28United_States_%28after_the_Treaty_of_Guadalupe_Hidalgo%29%29_1848_UTA.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gilman_%28United_States_%28after_the_Treaty_of_Guadalupe_Hidalgo%29%29_1848_UTA.jpg"
+        }
+      ]
     }
   ]
 }
