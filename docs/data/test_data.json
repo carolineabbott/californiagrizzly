@@ -2591,7 +2591,7 @@
       },
       "descriptions": [
         {
-          "value": "“Affairs is the Upper Fraiser Valley. — A correspondent of the Victoria Gazette, writing from Cayoosh Flat, on the 21st December, inst., says [...] The upper country abounds with game — reindeer as large as oxen, weighing from 500 to 900 pounds; grizzly and black bears,.” T.GB.1859.4, Daily Alta California, 24 February, 1860. Please see the Predator Microhistory Network's entry for T.GB.1859.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Affairs is the Upper Fraiser Valley. — A correspondent of the Victoria Gazette, writing from Cayoosh Flat, on the 21st December, inst., says [...] The upper country abounds with game — reindeer as large as oxen, weighing from 500 to 900 pounds; grizzly and black bears [...].” T.GB.1859.4, Daily Alta California, 24 February, 1860. Please see the Predator Microhistory Network's entry for T.GB.1859.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
@@ -2695,13 +2695,117 @@
       },
       "descriptions": [
         {
-          "value": "“Affairs is the Upper Fraiser Valley. — A correspondent of the Victoria Gazette, writing from Cayoosh Flat, on the 21st December, inst., says [...] The upper country abounds with game — reindeer as large as oxen, weighing from 500 to 900 pounds; grizzly and black bears,.” T.BB.1859.1, Daily Alta California, 24 February, 1860. Please see the Predator Microhistory Network's entry for T.BB.1859.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Affairs is the Upper Fraiser Valley. — A correspondent of the Victoria Gazette, writing from Cayoosh Flat, on the 21st December, inst., says [...] The upper country abounds with game — reindeer as large as oxen, weighing from 500 to 900 pounds; grizzly and black bears [...].” T.BB.1859.1, Daily Alta California, 24 February, 1860. Please see the Predator Microhistory Network's entry for T.BB.1859.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg/1280px-Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg/1280px-Mountain_goad_goat%3F%2C_Lillooet%2C_British_Columbia_%28HS85-10-30917%29.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/The_Cobweb_Palace",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1856.1",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1856",
+        "Month": "February",
+        "Day": "1",
+        "NativeLandRel": ["Ramaytush", "Muwekma", "Ohlone"],
+        "CACityTown": "San Francisco",
+        "County": "City and County of San Francisco",
+        "USState": "California",
+        "MexTerr": "Not applicable",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Unknown",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "Captive bear or bears",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Winter",
+        "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to winter rest period, torpor sleep, or hibernation"],
+        "StandardLang": ["Human–bear interaction", "Human-provided attractant", "Food-conditioned bear"],
+        "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "Not applicable", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves more than one Bear",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Unknown",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Not applicable",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": ["Unknown animals", "Brown Bear"],
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+         "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "None referenced",
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "None referenced",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": "Public display of wild animals for performance, study, or entertainment",
+        "ExtractivePractice": ["Live capture of wild animals", "Hunting"],
+        "InfrastructureLink": "None referenced",
+        "CompanyLink": "The Cobweb Palace",
+        "GovtLink": "1860 Republican National Convention",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "Abraham "Old Abe" Warner",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": "Public figures and prominent business owners of the American West",
+        "HumanFatality": "No known fatality",
+        "HumanInjury": "No known injury",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Survived",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411757,
+          37.805254
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“We believe there was, some time ago, a collection of grizzly bears at San Francisco, called the “happy family.” it is possible there was an escape from them just previous to the Republican State Convention!” GB.1856.1, Daily Alta California, 24 February, 1860. Please see the Predator Microhistory Network's entry for GB.1856.1 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Abe_Warner%27s_Cobweb_Palace._Francisco_Street._Abe_Warner_in_plug_hat_on_the_left.jpg/1280px-Abe_Warner%27s_Cobweb_Palace._Francisco_Street._Abe_Warner_in_plug_hat_on_the_left.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Abe_Warner%27s_Cobweb_Palace._Francisco_Street._Abe_Warner_in_plug_hat_on_the_left.jpg/1280px-Abe_Warner%27s_Cobweb_Palace._Francisco_Street._Abe_Warner_in_plug_hat_on_the_left.jpg"
         }
       ]
     }
