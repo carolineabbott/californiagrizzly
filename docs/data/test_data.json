@@ -2502,7 +2502,7 @@
       "type": "Feature",
       "properties": {
         "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
-        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "GBSubtype": "Not applicable",
         "BBSubtype": "Not applicable",
         "CatalogueNumber": "T.GB.1859.4",
         "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
@@ -2736,7 +2736,7 @@
         "TrackLength": "Unknown",
         "Season": "Winter",
         "WinterRest": ["With relationship to winter rest period, torpor sleep, or hibernation", "With relationship to winter rest period, torpor sleep, or hibernation"],
-        "StandardLang": ["Human–bear interaction", "Human-provided attractant", "Food-conditioned bear"],
+        "StandardLang": ["Human–bear interaction", "Food-conditioned bear"],
         "ConflictDrivers": "Conditions for human-Bear conflict implied with few details",
         "Defensive": "None referenced",
         "NonDefensive": "None referenced",
