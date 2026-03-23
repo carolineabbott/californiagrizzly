@@ -2201,7 +2201,7 @@
         "Month": "February",
         "Day": "4",
         "NativeLandRel": ["Ramaytush", "Muwekma", "Ohlone"],
-        "CACityTown": "	Redwood City",
+        "CACityTown": "Redwood City",
         "County": "San Mateo County",
         "USState": "California",
         "MexTerr": "Alta California",
@@ -2266,7 +2266,7 @@
         "Bloodsport": "Unknown relationship",
         "SourceType": "Newspaper or print media",
         "PrintMedState": "California",
-        "CalPrint": "Sacramento Daily Union",
+        "CalPrint": "Times Gazette",
         "SourceOrigin": "California Digital Newspaper Collection"
         
       },
