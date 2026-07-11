@@ -3028,7 +3028,7 @@
         "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
         "TrackorUAN": "UAN",
         "Century": "19th century",
-        "Decade": "1830-1840",
+        "Decade": "1830-1839",
         "Year": "1837",
         "Month": "October",
         "Day": "17",
@@ -3114,6 +3114,108 @@
         {
           "@id": "https://commons.wikimedia.org/wiki/File:Peter_Lebeck_tree.jpg",
           "thumbnail": "https://commons.wikimedia.org/wiki/File:Peter_Lebeck_tree.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Merced,_California",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1850.1",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "February",
+        "Day": "20",
+        "NativeLandRel": ["Central Sierra Miwok", "Southern Sierra Miwok"],
+        "CACityTown": "Bagby",
+        "County": "Mariposa County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Winter",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "StandardLang": ["Human-Bear Conflict", "Human–bear interaction"],
+        "ConflictDrivers": "Hunting",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "Unknown", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Central Valley Grasslands",
+        "Biome": "Temperate Grasslands, Savannas and Shrublands",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "Not applicable",
+        "Mountain": "Not applicable",
+        "Valley": "Merced River Canyon",
+        "CalRiverSystem": "San Joaquin River System",
+        "CalRiver": "Merced River",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Mining", "Prospecting", "Hunting"],
+        "ExtractivePractice": ["Mining", "Prospecting", "Hunting"],
+        "CompanyLink": "Unknown",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Miners and prospectors of the American West", "Hunters and trappers of the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.1375842,
+          37.6128939
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Stories of extraordinary rencontres with grizzly bears, have been quite common this winter in the Southern mines. As a general thing, when a man and a bear meet, face to face in the woods, they are both glad to sneak off in opposite directions. Old huntsmen meeting with one of these formidable creature, generally consider prudence the best part of valor and allow him to pass unnoticed.“ T.GB.1850.1, Daily Alta California, Volume 1, Number 45, 20 February 1850."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tien_personen_op_een_brug_over_de_Merced_rivier_in_Californi%C3%AB_Bridge_Across_the_Merced_River_%28titel_op_object%29_California_%28serietitel_op_object%29%2C_RP-F-F11056.jpg/1280px-thumbnail.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tien_personen_op_een_brug_over_de_Merced_rivier_in_Californi%C3%AB_Bridge_Across_the_Merced_River_%28titel_op_object%29_California_%28serietitel_op_object%29%2C_RP-F-F11056.jpg/1280px-thumbnail.jpg"
         }
       ]
     }
