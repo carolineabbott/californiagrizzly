@@ -2860,7 +2860,7 @@
         "Plant": "None referenced",
         "Crops": "None referenced",
         "Bugs": "None referenced",
-         "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
         "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
         "Weather": "None referenced",
         "MajorWeather": "None referenced",
@@ -2963,7 +2963,7 @@
         "Plant": "None referenced",
         "Crops": "None referenced",
         "Bugs": "None referenced",
-         "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
+        "Ecoregion": ["Northern California Coastal Forests", "California Interior Chaparral and Woodlands"],
         "Biome": ["Temperate Conifer Forests", "Mediterranean Forests, Woodlands & Scrub"],
         "Weather": "None referenced",
         "MajorWeather": "None referenced",
@@ -3309,13 +3309,115 @@
       },
       "descriptions": [
         {
-          "value": "“A short time since two young men in passing through a thicket on the Merced, came suddenly upon an enormous : bear, who, without an instant's warning, sprung upon one of them, and with a blow of his paw struck his rifle from his hand, and dashed him to the ground. He then bit him severely in several places, rolling him over and over, lifting him at times on his nose, and tossing him into the bushes. Then clasping him in his fore paws, tearing his clothes and gnawing into his flesh, the bear would play with him as a cat would with a mouse,. Stunned by the first blow from the bear, the man was completely at his mercy, and made no attempt to defend himself or to escape. Having amused himself to his satisfaction, the bear left his victim, who gradually recovered and was enabled to crawl a short distance, towards his camp. He was found in a deplorable situation by some friends who had been informed of the occurrence by his companion, who supposed that bruin had made a meal of him. War was immediately declared against the monster, and after a severe fight which lasted some hours, he was killed.“ GB.1850.2, Daily Alta California, Volume 1, Number 45, 20 February 1850."
+          "value": "“A short time since two young men in passing through a thicket on the Merced, came suddenly upon an enormous : bear, who, without an instant's warning, sprung upon one of them, and with a blow of his paw struck his rifle from his hand, and dashed him to the ground. He then bit him severely in several places, rolling him over and over, lifting him at times on his nose, and tossing him into the bushes. Then clasping him in his fore paws, tearing his clothes and gnawing into his flesh, the bear would play with him as a cat would with a mouse,. Stunned by the first blow from the bear, the man was completely at his mercy, and made no attempt to defend himself or to escape. Having amused himself to his satisfaction, the bear left his victim, who gradually recovered and was enabled to crawl a short distance, towards his camp. He was found in a deplorable situation by some friends who had been informed of the occurrence by his companion, who supposed that bruin had made a meal of him. War was immediately declared against the monster, and after a severe fight which lasted some hours, he was killed.“ GB.1850.2, Daily Alta California, Volume 1, Number 45, 20 February 1850. Please see the Predator Microhistory Network's entry for GB.1850.2 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/3/38/Map_Of_The_Mining_District_of_California_by_Wm._A._Jackson._Published_by_Lambert_%26_Lane%2C_69_Wall_St._New_York._Entered_..._%28IA_dr_map-of-the-mining-district-of-california-by-wm-a-jackson-published-by-la-00024032%29.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/38/Map_Of_The_Mining_District_of_California_by_Wm._A._Jackson._Published_by_Lambert_%26_Lane%2C_69_Wall_St._New_York._Entered_..._%28IA_dr_map-of-the-mining-district-of-california-by-wm-a-jackson-published-by-la-00024032%29.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://upload.wikimedia.org/wikipedia/commons/9/97/Josiah_Gregg.jpg",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1850.3",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1849",
+        "Month": "Unknown",
+        "Day": "Unknown",
+        "NativeLandRel": ["Karuk", "Yurok", "Tolowa", "Chetco", "Coquille", "Umpqua", "Tututni", "Shasta", "New River Shasta", "Chilula", "Hupa", "Konomihu", "Winnimem Wintu", "Okwanuchu"],
+        "CACityTown": "Unknown",
+        "County": "Humboldt County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Unknown",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Autumn",
+        "WinterRest": "With relationship to “predenning” or denning preceding winter rest",
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": ["Self protection", "Cubs protection", "Food protection"],
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "Charge",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "Sleuth of bears",
+        "NumberBears": "This microhistory involves an unknown number of bears",
+        "MaternityLink": "Known relationship to maternity",
+        "Offspring": "1",
+        "OffspringOutcomes": "Survived",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "Eagle",
+        "Fish": "Unspecified fish",
+        "Plant": ["Oak", "Saplings unspecified"],
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["Northern California Coastal Forests", "Klamath-Siskiyou Forests"],
+        "Biome": "Temperate Conifer Forests",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "Klamath Mountains",
+        "Mountain": "None referenced",
+        "Valley": "Not applicable",
+        "CalRiverSystem": "Klamath River Watershed",
+        "CalRiver": "Trinity River",
+        "CalCreek": "None referenced",
+       "ExtractiveLink": ["Mining", "Prospecting", "Hunting"],
+        "ExtractivePractice": ["Mining", "Prospecting", "Hunting"],
+        "CompanyLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown number of involved humans",
+        "HumanNames": "Josiah Gregg",
+        "HumanGender": "Male",
+        "SocialGroup": ["Miners and prospectors of the American West", "Hunters and trappers of the American West"],
+        "HumanFatality": "No known fatality",
+        "HumanInjury": ["Back", "Torso", "Unspecified injury or injuries"],
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Unknown",
+        "PredMortality": "Killed",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -123.9311623,
+          41.1292117
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“One morning, while searching for acorns or ground nuts, they observed a herd of grizzly bears, intent upon making a similar morning meal. The sight of fresh animal food tempted the poor travellers to expend a portion of their scant ammunition in an endeavor to bring down one of these formidable beasts, and they discharged their pieces, without counting upon the result in the event of wounding one of them. One shot inflicted a mortal wound, while a wounded bruin and its full grown cub made directly at one of the men. Our informant had thrown down his rifle, and was in the act of climbing a sapling, when the bears turned from his comrade upon him. He was too weak to escape them, and the foremost dragged him to the earth. His hip joint was dislocated by the fall, and he was otherwise severely injured. He remained with his face downward, while the bears lacerated his flesh, and stripped his clothing from him, after which they left him, and he was found by his companions in a dreadful state of suffering. His wounds were dressed, and after a short time he was enabled to proceed slowly on the journey. The second day after, they reached the sea coast, at a point which they judged to be above the bay of Trinidad. They killed an eagle and devoured its flesh, and also sustained life by feeding on dead fish which were found upon the shore. Up to this time they had seen but a few Indians, but now they were visited by numbers who kindly supplied them with fish. After travelling some thirty miles along the coast, they found Trinity river — this they felt confident was no other stream, and they immediately retraced their steps coastwise, and in a couple of days they arrived at Trinidad Bay.“ GB.1850.3, Daily Alta California, Volume 1, Number 86, 9 April 1850. Please see the Predator Microhistory Network's entry for GB.1850.3 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/3/38/1866_Northern_California_Map.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/38/1866_Northern_California_Map.jpg"
         }
       ]
     }
