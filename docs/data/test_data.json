@@ -3133,7 +3133,7 @@
         "Month": "February",
         "Day": "20",
         "NativeLandRel": ["Central Sierra Miwok", "Southern Sierra Miwok"],
-        "CACityTown": "Bagby",
+        "CACityTown": "Unknown",
         "County": "Mariposa County",
         "USState": "California",
         "MexTerr": "Alta California",
@@ -3216,6 +3216,108 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tien_personen_op_een_brug_over_de_Merced_rivier_in_Californi%C3%AB_Bridge_Across_the_Merced_River_%28titel_op_object%29_California_%28serietitel_op_object%29%2C_RP-F-F11056.jpg/1280px-thumbnail.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tien_personen_op_een_brug_over_de_Merced_rivier_in_Californi%C3%AB_Bridge_Across_the_Merced_River_%28titel_op_object%29_California_%28serietitel_op_object%29%2C_RP-F-F11056.jpg/1280px-thumbnail.jpg"
+        }
+      ]
+    }
+    {
+      "@id": "https://en.wikipedia.org/wiki/Bagby,_California",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1850.1",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "February",
+        "Day": "13",
+        "NativeLandRel": ["Central Sierra Miwok", "Southern Sierra Miwok"],
+        "CACityTown": "Unknown",
+        "County": "Mariposa County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Weight": "900-1000lbs",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Winter",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": ["Surprising a Bear at close range", "Self protection"],
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "Charge",
+        "CuriousBear": "None referenced",
+        "Sympatry": "Unknown", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "No relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": ["Scrub Oak", "Saplings unspecified", "Thicket unspecified"],
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Central Valley Grasslands",
+        "Biome": "Temperate Grasslands, Savannas and Shrublands",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "Not applicable",
+        "Mountain": "Not applicable",
+        "Valley": "Merced River Canyon",
+        "CalRiverSystem": "San Joaquin River System",
+        "CalRiver": "Merced River",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Mining", "Prospecting", "Hunting"],
+        "ExtractivePractice": ["Mining", "Prospecting", "Hunting"],
+        "CompanyLink": "Unknown",
+        "ImperialRel": "American",
+        "NumberHumans": "5",
+        "HumanNames": "Curry",
+        "HumanGender": "Male",
+        "SocialGroup": ["Miners and prospectors of the American West", "Hunters and trappers of the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Unspecified injury or injuries",
+        "Retaliatory": ["Known to be retaliatory", "Pretext or potential pretext for later retaliation"],
+        "RetaliatoryMotive": "Human injury or fatality",
+        "CorpusComm": "Unknown",
+        "PredMortality": "Killed",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.1421009,
+          37.6168164
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A short time since two young men in passing through a thicket on the Merced, came suddenly upon an enormous : bear, who, without an instant's warning, sprung upon one of them, and with a blow of his paw struck his rifle from his hand, and dashed him to the ground. He then bit him severely in several places, rolling him over and over, lifting him at times on his nose, and tossing him into the bushes. Then clasping him in his fore paws, tearing his clothes and gnawing into his flesh, the bear would play with him as a cat would with a mouse,. Stunned by the first blow from the bear, the man was completely at his mercy, and made no attempt to defend himself or to escape. Having amused himself to his satisfaction, the bear left his victim, who gradually recovered and was enabled to crawl a short distance, towards his camp. He was found in a deplorable situation by some friends who had been informed of the occurrence by his companion, who supposed that bruin had made a meal of him. War was immediately declared against the monster, and after a severe fight which lasted some hours, he was killed.“ GB.1850.1, Daily Alta California, Volume 1, Number 45, 20 February 1850."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/3/38/Map_Of_The_Mining_District_of_California_by_Wm._A._Jackson._Published_by_Lambert_%26_Lane%2C_69_Wall_St._New_York._Entered_..._%28IA_dr_map-of-the-mining-district-of-california-by-wm-a-jackson-published-by-la-00024032%29.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/38/Map_Of_The_Mining_District_of_California_by_Wm._A._Jackson._Published_by_Lambert_%26_Lane%2C_69_Wall_St._New_York._Entered_..._%28IA_dr_map-of-the-mining-district-of-california-by-wm-a-jackson-published-by-la-00024032%29.jpg"
         }
       ]
     }
