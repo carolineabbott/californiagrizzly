@@ -106,6 +106,110 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Marysville,_California",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1850.4",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "April",
+        "Day": "17",
+        "NativeLandRel": "Nisenan",
+        "CACityTown": "Marysville",
+        "County": "United States",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States", 
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "Captive bear or bears",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Spring",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "StandardLang": ["Human-Bear Conflict", " "Human–Bear interaction", "Conflict Bear", "Habituated Bear", "Food-conditioned Bear"],
+        "ConflictDrivers": "Captive animal",
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "None referenced",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "Domesticated Bear",
+        "Livestock": "None referenced",
+        "WildAnimals": "Brown Bear",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "Unspecified plant",
+        "Crops": ["Wheat", "Unspecified garden plants", "Unspecified crops"],
+        "Bugs": "None referenced",
+        "Ecoregion": "California Central Valley Grasslands",
+        "Biome": "Temperate Grasslands, Savannas and Shrublands",
+        "Weather": ["High water", "Pleasant conditions noted"],
+        "MajorWeather": "None referenced",
+        "MountainRange": "None referenced",
+        "Mountain": "None referenced",
+        "Valley": ["Sacramento Valley", "Central Valley"],    
+        "CalRiverSystem": "Feather River System",
+        "CalRiver": ["Feather River", "North Fork Feather River"]
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Public display of wild animals for performance, study, or entertainment", "Mining", "Prospecting", "Water management", "Hunting", "Agriculture"], 
+        "ExtractivePractice": ["Mining", "Prospecting", "Water management labour", "Hunting", "Agriculture", "Live capture of wild animals"], 
+        "InfrastructureLink": ["Damming", "Water, mills, and irrigation infrastructure", "Ferries", "Steamboats", "Mining infrastructure"]
+        "CompanyLink": "None referenced",
+        "GovtLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "Rush",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Miners and prospectors of the American West", "Indigenous individuals and communities of the American west", "Farmers of the American West", "Performers and athletes of the American West"],
+        "HumanFatality": "No known fatality",
+        "HumanInjury": "No known injury",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Survived",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Placer Times and Transcript",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5890077,
+          39.1403358
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Business in Marysville suffers a temporary stagnation from the fulness of the sloughs, which seriously interferes with teaming communication. They do not lose their spirits however. They have a real grizzly on show there, at $2 a sight. Cubs of the same order quite abound, and are the favorite pets of the neighborhood.” GB.1850.4, A Trip up Feather River, Daily Placer Times and Transcript, Volume 1, Number 50, 24 April 1850. Please see the Predator Microhistory Network's entry for GB.1850.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/3/33/Steamer_for_Marysville_passing_the_Bridge%2C_at_Sacramento_LCCN2002723597.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/33/Steamer_for_Marysville_passing_the_Bridge%2C_at_Sacramento_LCCN2002723597.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://commons.wikimedia.org/wiki/Main_Page",
       "type": "Feature",
       "properties": {
