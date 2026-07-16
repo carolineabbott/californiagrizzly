@@ -151,7 +151,7 @@
         "PreyPresence": "Wild prey sources referenced",
         "DomAnimals": "None referenced",
         "Livestock": "None referenced",
-        "WildAnimals": ["Brown Bear", "Coyote", "Hare"],
+        "WildAnimals": ["Brown Bear", "Coyote", "Hare", "Rattlesnake"],
         "Birds": "None referenced",
         "Fish": "Salmon",
         "Plant": "Whortleberry",
