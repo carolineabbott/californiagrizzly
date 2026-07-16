@@ -105,8 +105,7 @@
         }
       ]
     },
-    },
-        {
+    {
       "@id": "https://en.wikipedia.org/wiki/San_Joaquin_River",
       "type": "Feature",
       "properties": {
