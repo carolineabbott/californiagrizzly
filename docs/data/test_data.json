@@ -216,7 +216,7 @@
         "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
-        "CatalogueNumber": "T.GB.1850.3",
+        "CatalogueNumber": "GB.1850.5",
         "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
         "TrackorUAN": "UAN",
         "Century": "19th century",
@@ -230,8 +230,8 @@
         "USState": "California",
         "MexTerr": "Alta California",
         "Country": "United States",
-        "Sex": "_________",
-        "Age": "_________",
+        "Sex": "Unknown",
+        "Age": ["Young or juvenile", "Yearling or subadult"],
         "Weight": "Unknown",
         "Length": "Unknown",
         "Health": "Unknown",
@@ -303,7 +303,7 @@
       },
       "descriptions": [
         {
-          "value": "“Business in Marysville suffers a temporary stagnation from the fulness of the sloughs, which seriously interferes with teaming communication. They do not lose their spirits however. They have a real grizzly on show there, at $2 a sight. Cubs of the same order quite abound, and are the favorite pets of the neighborhood.” T.GB.1850.3, A Trip up Feather River, Daily Placer Times and Transcript, Volume 1, Number 50, 24 April 1850. Please see the Predator Microhistory Network's entry for T.GB.1850.3 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Business in Marysville suffers a temporary stagnation from the fulness of the sloughs, which seriously interferes with teaming communication. They do not lose their spirits however. They have a real grizzly on show there, at $2 a sight. Cubs of the same order quite abound, and are the favorite pets of the neighborhood.” GB.1850.5, A Trip up Feather River, Daily Placer Times and Transcript, Volume 1, Number 50, 24 April 1850. Please see the Predator Microhistory Network's entry for GB.1850.5 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
