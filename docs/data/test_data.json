@@ -279,7 +279,7 @@
         "HumanNames": ["Walker", "Dr. Davis B. Cassiday"],
         "HumanGender": ["Male", "Unknown"],
         "SocialGroup": ["Hunters of the American West", "Tourists, Journalists, and Writers of the American West"],
-        "HumanFatality": "No known fatality",
+        "HumanFatality": "Human fatality or fatalities",
         "HumanInjury": ["Arms and hands", "Legs and feet", "Face, eyes & scalp"],
         "Retaliatory": ["Not known to be retaliatory", "Not known to relate to future retaliatory action"],
         "RetaliatoryMotive": "Not applicable",
@@ -295,8 +295,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [ 
-          -121.277446,
-          37.959646
+          -120.384327,
+          37.7353458
         ]
       },
       "descriptions": [
@@ -382,7 +382,7 @@
         "HumanNames": ["Walker", "Dr. Davis B. Cassiday"],
         "HumanGender": ["Male", "Unknown"],
         "SocialGroup": ["Hunters of the American West", "Tourists, Journalists, and Writers of the American West"],
-        "HumanFatality": "No known fatality",
+        "HumanFatality": "Human fatality or fatalities",
         "HumanInjury": ["Arms and hands", "Legs and feet", "Face, eyes & scalp"],
         "Retaliatory": ["Not known to be retaliatory", "Not known to relate to future retaliatory action"],
         "RetaliatoryMotive": "Not applicable",
@@ -398,8 +398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [ 
-          -121.277431,
-          37.959666
+          -120.384307,
+          37.7353428
         ]
       },
       "descriptions": [
@@ -485,7 +485,7 @@
         "HumanNames": ["Walker", "Dr. Davis B. Cassiday"],
         "HumanGender": ["Male", "Unknown"],
         "SocialGroup": ["Hunters of the American West", "Tourists, Journalists, and Writers of the American West"],
-        "HumanFatality": "No known fatality",
+        "HumanFatality": "Human fatality or fatalities",
         "HumanInjury": ["Arms and hands", "Legs and feet", "Face, eyes & scalp"],
         "Retaliatory": ["Not known to be retaliatory", "Not known to relate to future retaliatory action"],
         "RetaliatoryMotive": "Not applicable",
@@ -501,8 +501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [ 
-          -121.277461,
-          37.959696
+          -120.384340,
+          37.7353435
         ]
       },
       "descriptions": [
