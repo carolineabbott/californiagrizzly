@@ -164,10 +164,10 @@
         "MountainRange": ["Sierra Nevada Mountains", "Sierra Nevada Foothills"],
         "Mountain": "Mima Mounds",
         "Valley": "San Joaquin Valley",
-        "CalRiverSystem": ["San Joaquin River System", "The Tuolumne River Watershed"]
+        "CalRiverSystem": ["San Joaquin River System", "The Tuolumne River Watershed"],
         "CalRiver": ["Merced River", "Tuolumne River"],
         "CalCreek": "None referenced",
-        "ExtractiveLink": ["Transportation infrastructure", "Ranching", "Associated with the dispossession or removal of an Indigenous group"],
+        "ExtractiveLink": ["Transportation infrastructure", "Ranching", "Agriculture", "Associated with the dispossession or removal of an Indigenous group"],
         "ExtractivePractice": ["Associated with the dispossession or removal of an Indigenous group", "Ranching", "Regulation or monetization of human movement", "Tourism"],
         "InfrastructureLink": "Ferries",
         "CompanyLink": ["Claxton & Horr’s Ferry", "Col. Samuel Scott’s Ranch"],
