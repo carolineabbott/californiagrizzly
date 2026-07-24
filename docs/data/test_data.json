@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Mima_mounds",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1849.7",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1840-1849",
+        "Year": "1849",
+        "Month": "April",
+        "Day": "Unknown",
+        "NativeLandRel": "Yokuts",
+        "CACityTown": ["Snelling", "Robert's Ferry"],
+        "County": "Mariposa County",
+        "USState": "California",
+        "MexTerr": "Not applicable",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Spring",
+        "WinterRest": ["With relationship to den emergence following winter rest", "With relationship to period of normal activity following winter rest"],
+        "StandardLang": "None applicable",
+        "ConflictDrivers": "Not applicable",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Not applicable",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Central Valley Grasslands",
+        "Biome": "Temperate Grasslands, Savannas and Shrublands",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Sierra Nevada Mountains", "Sierra Nevada Foothills"],
+        "Mountain": "Mima Mounds",
+        "Valley": "San Joaquin Valley",
+        "CalRiverSystem": ["San Joaquin River System", "The Tuolumne River Watershed"]
+        "CalRiver": ["Merced River", "Tuolumne River"],
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Transportation infrastructure", "Ranching", "Associated with the dispossession or removal of an Indigenous group"],
+        "ExtractivePractice": ["Associated with the dispossession or removal of an Indigenous group", "Ranching", "Regulation or monetization of human movement", "Tourism"],
+        "InfrastructureLink": "Ferries",
+        "CompanyLink": ["Claxton & Horr’s Ferry", "Col. Samuel Scott’s Ranch"],
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown multiple of involved humans",
+        "HumanNames": ["George W. Claxton", "Dr. Benjamin D. Horr", "Alden A. M. Jackson", "Richard Doss"],
+        "HumanGender": "Unknown",
+        "SocialGroup": ["Tourists, Journalists, and Writers of the American West", "Ranchers of the American West", "Scientists, explorers, and government officials in the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Not applicable",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Pacific News",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.576952,
+          37.596033
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“‘The Mound Rock’ is the heading of a short article in the Illustrated California News, which describes a singular natural elevation, or table rock, covering an area of some acres, which is to be found at Mr. Scott’s ranch on the Mercedes river. We might incline to the opinion of the writer in the News, that this is artificial, were it not perfectly evident from the dip of the strata which compose this singular mound, that it is not the work of masonry, but of the upheaval of some pent-up forces in the earlier geological periods [of] the planet. This opinion is still further confirmed by the fact that these exist on the plain between Scott’s ranch and the foot hills of the Tuolumne—say covering a space of ten or fifteen miles square —numberless more of these singular mounds, which we are satisfied, also, are not artificial. They are situated some miles from the nearest of the main road leading from Stockton to the Mariposa, and we should never have met them had not curiosity taken us across that portion of the ‘painted prairie’ in April last. To effect a cut-off, also, was in part an object. We steered by compass from the upper (Texan) ferry of the Mercedes, to Jackson’s ranch, (Horr’s ferry,) on the Tuolumne. About midway on this journey, we were overtaken by night, and having the fear of a grizzly before our eyes, we climbed one of the mounds, and with a blanket, there slept in the moon’s pale cold light.“ T.GB.1849.7, Curious Geological Phenomena, Daily Pacific News, Volume II, Number 69, 15 October 1850. Please see the Predator Microhistory Network's entry for T.GB.1849.7 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Snelling_1915_1-31%2C680_-_PCL_Map_Collection_-_txu-pclmaps-topo-ca-snelling-1915.jpg/1920px-Snelling_1915_1-31%2C680_-_PCL_Map_Collection_-_txu-pclmaps-topo-ca-snelling-1915.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Snelling_1915_1-31%2C680_-_PCL_Map_Collection_-_txu-pclmaps-topo-ca-snelling-1915.jpg/1920px-Snelling_1915_1-31%2C680_-_PCL_Map_Collection_-_txu-pclmaps-topo-ca-snelling-1915.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Bull-baiting",
       "type": "Feature",
       "properties": {
