@@ -106,7 +106,7 @@
       ]
     },
     {
-      "@id": "https://en.wikipedia.org/wiki/San_Francisco",
+      "@id": "https://en.wikipedia.org/wiki/Sonora,_California",
       "type": "Feature",
       "properties": {
         "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
@@ -203,8 +203,8 @@
       ],
       "depictions": [
         {
-          "@id": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Green_Street%2C_West_from_Kearny%2C_San_Francisco_LCCN2002719837.jpg",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Green_Street%2C_West_from_Kearny%2C_San_Francisco_LCCN2002719837.jpg"
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Washington_Street%2C_Sonora%2C_Tuolomne_County_from_the_City_Hotel_LCCN2002721678.tif/lossy-page1-1280px-Washington_Street%2C_Sonora%2C_Tuolomne_County_from_the_City_Hotel_LCCN2002721678.tif.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Washington_Street%2C_Sonora%2C_Tuolomne_County_from_the_City_Hotel_LCCN2002721678.tif/lossy-page1-1280px-Washington_Street%2C_Sonora%2C_Tuolomne_County_from_the_City_Hotel_LCCN2002721678.tif.jpg"
         }
       ]
     },
