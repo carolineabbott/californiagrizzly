@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Royal_Mail_Steam_Packet_Company",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1850.18A",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "November",
+        "Day": "Unknown",
+        "NativeLandRel": "Not applicable",
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Not applicable",
+        "Country": "England",
+        "Sex": "Unknown",
+        "Age": "Young or juvenile",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": ["Poor health or condition", "Captive bear or bears"],
+        "PoorHealth": ["Captive bear or bears", "Juvenile lacking maternal figure"],
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Autumn",
+        "WinterRest": ["With relationship to “predenning” or denning preceding winter rest", "With relationship to period of hyperphagia preceding winter rest"]
+        "StandardLang": ["Human-Bear Conflict", "Conflict Bear", "Human-Bear Interaction", "Translocation"],
+        "ConflictDrivers": ["Captive animal", "Conditions for human-Bear conflict implied with few details"],
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "Captive Bear",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves more than one Bear",
+        "MaternityLink": "Known relationship to maternity",
+        "Offspring": "3",
+        "OffspringOutcomes": ["Captured or captive", "Survived", "Orphaned"],
+        "PreyPresence": "Unknown",
+        "DomAnimals": "Unknown",
+        "Livestock": "Unknown",
+        "WildAnimals": "Unknown",
+        "Birds": "Unknown",
+        "Fish": "Unknown",
+        "Plant": "Unknown",
+        "Crops": "Unknown",
+        "Bugs": "None referenced",
+        "Ecoregion": "English Lowlands beech forests",
+        "Biome": "Temperate Broadleaf & Mixed Forests",
+        "Weather": "Unknown",
+        "MajorWeather": "Unknown",
+        "MountainRange": "Sierra Nevada Mountains",
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "Unknown",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Live capture of wild animals", "Public display of wild animals for performance, study, or entertainment", "Transportation infrastructure", "Forced labor and coercive control of a Black or formerly enslaved population and its resources"],
+        "ExtractivePractice": ["Hunting", "Live capture of wild animals", "Tourism", "Forced labor and coercive control of a Black or formerly enslaved population and its resources", "Regulation or monetization of human communication", "Regulation or monetization of human movement"],
+        "InfrastructureLink": "Ships",
+        "CompanyLink": ["London Zoological Garden", "Royal Mail Steam Packet Company"],
+        "ImperialRel": ["American", "British"],
+        "NumberHumans": "This microhistory refers to an unknown number of involved humans",
+        "HumanNames": "Pacton",
+        "HumanGender": "Unknown",
+        "SocialGroup": "Unknown",
+        "HumanFatality": "Unknown",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Survived",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -1.399193,
+          50.897200
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Among the passengers by the West India mailpacket Avon, arrived at Southampton, were three grizzly bears from California.“ GB.1850.18A, Foreign, Daily Alta California, Volume 1, Number 284, 12 November 1850. Please see the Predator Microhistory Network's entry for GB.1850.18A for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Avon02.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Avon02.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Expectancy_violations_theory",
       "type": "Feature",
       "properties": {
