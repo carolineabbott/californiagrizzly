@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Merced_River",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1850.21",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "November",
+        "Day": "Unknown",
+        "NativeLandRel": ["Nisenan", "Cayuse, Umatilla, & Walla Walla"],
+        "CACityTown": "Sacramento",
+        "County": "Sacramento County",
+        "USState": "California",
+        "MexTerr": "Not applicable",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Unknown",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "Unknown",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Autumn",
+        "WinterRest": ["With relationship to period of hyperphagia preceding winter rest", "With relationship to “predenning” or denning preceding winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": ["Conditions for human-Bear conflict implied with few details", "Human aggression"],
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Unknown",
+        "CuriousBear": "Unknown",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "Unknown",
+        "Offspring": "Unknown",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "Unspecified livestock",
+        "Livestock": "Unspecified livestock",
+        "WildAnimals": ["Deer", "Elk", "Antelope", "Unknown animals"],
+        "Birds": "None referenced",
+        "Fish": ["Salmon", "Chinook salmon (Oncorhynchus tshawytscha)", "Steelhead (Oncorhynchus mykiss)", "Salmon Trout"],
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Central Valley Grasslands", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Grasslands, Savannas & Shrublands", "Mediterranean Forests, Woodlands & Scrub"],
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": "Not applicable",
+        "Mountain": "Not applicable",
+        "Valley": ["Central Valley", "Sacramento Valley"],
+        "CalRiverSystem": "Sacramento River System",
+        "CalRiver": "Sacramento River",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Fisheries and Fishing", "Mining", "Prospecting", "Transportation infrastructure"],
+        "ExtractivePractice": ["Hunting", "Fishing", "Mining", "Prospecting"],
+        "InfrastructureLink": ["Restaurant or food marketplace", "Butcher, slaughterhouse, or cannery", "Anthropogenic food preparation site"],
+        "CompanyLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown number of involved humans",
+        "HumanNames": "None referenced",
+        "HumanGender": "Unknown",
+        "SocialGroup": ["Hunters of the American West", "Miners and prospectors of the American West", "Urban populations of the American West", "Fishing labour in the American west"],
+        "HumanFatality": "Unknown",
+        "HumanInjury": "Unknown",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Meat",
+        "PredMortality": "Killed",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Sacramento Transcript",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.504835,
+          38.583359
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Mountain game are beginning to come down from their summer haunts, and miners in various quarters of the State will be able to supply themselves with all kinds of wild meats. During the last season, quite a number of miners were able to keep themselves in fresh meat, and that of the choicest kind, without expending a dollar. We have had in market for some time past an abundance of venison and elk, and on several occasions a few haunches of the grizzly. The latter is regarded by many as one of the sweetest and most delicate meats. On the prairies antelopes are found in droves, and the wary huntsman not unfrequently makes a large haul during a single expedition. Several sportsmen made their piles last season by hunting; and we recollect of seeing a wagon enter our city regularly every morning, containing from three to five elk. In addition to the mountain game, our rivers afford a large supply of the finny tribe. The salmon and salmon trout appear to be the general favorites. The latter is taken in large quantities twenty miles, and probably higher up the American river. The abrupt falls, however, prevent these fish being found near the sources of our streams; although noted for their leaping power, they are compelled to “cave” when they attempt to scale some of the precipitous points found in our rivers. We understand that the Merced abounds with millions of salmon at this time, and that many persons are now engaged in taking and curing them for winter use. One man, it is said, can with a spear alone, take a thousand pounds per day of these delicious fish. If this is correct, the miners will need far less supplies of meat and fish than formerly.“ GB.1850.21, California Game, Sacramento Transcript, Volume 2, Number 31, 29 November 1850. Please see the Predator Microhistory Network's entry for GB.1850.21 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sacramento_City%2C_Ca._from_the_foot_of_J._Street_%28LOC_pga.04015%29.tif/lossy-page1-3840px-Sacramento_City%2C_Ca._from_the_foot_of_J._Street_%28LOC_pga.04015%29.tif.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sacramento_City%2C_Ca._from_the_foot_of_J._Street_%28LOC_pga.04015%29.tif/lossy-page1-3840px-Sacramento_City%2C_Ca._from_the_foot_of_J._Street_%28LOC_pga.04015%29.tif.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/California_Coastal_National_Monument",
       "type": "Feature",
       "properties": {
@@ -192,8 +295,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [ 
-          -124.152957,
-          41.070075
+          -124.142945,
+          41.057788
         ]
       },
       "descriptions": [
