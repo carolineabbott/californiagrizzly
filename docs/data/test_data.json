@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Yolo_Bypass",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1851.4A",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1851",
+        "Month": "March",
+        "Day": "9",
+        "NativeLandRel": ["Patwin (Wintun Tʼewe)", "Nisenan", "Plains Miwok"],
+        "CACityTown": "Sacramento",
+        "County": "Sacramento County",
+        "USState": "California",
+        "MexTerr": "Not applicable",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Yearling or subadult",
+        "Weight": "0-100lbs",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Winter",
+        "WinterRest": ["With relationship to den emergence following winter rest", "With relationship to winter rest period, torpor sleep, or hibernation"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": ["Human aggression", "Encounter during winter rest period or marks a disturbance thereof", "Cubs protection", "Proximity to Cubs"],
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves more than one Bear",
+        "MaternityLink": "Known relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "Unspecified livestock",
+        "WildAnimals": ["Deer", "Mule Deer (Odocoileus hemionus)", "Unknown animals"],
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "Tule (Schoenoplectus)",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Central Valley Grasslands", "California Interior Chaparral and Woodlands"],
+        "Biome": ["Temperate Grasslands, Savannas & Shrublands", "Mediterranean Forests, Woodlands & Scrub"],
+        "Weather": "None referenced",
+        "MajorWeather": "Not applicable",
+        "MountainRange": ["California Coast Range Foothills", "Vaca Mountains", "California Coast Ranges"],
+        "Mountain": "Not applicable",
+        "Valley": ["Central Valley", "Sacramento Valley"],
+        "CalRiverSystem": ["Sacramento River System", "Putah Creek Basin"],
+        "CalRiver": "Sacramento River",
+        "CalCreek": ["Putah Creek", "Cache Creek"],
+        "ExtractiveLink": ["Hunting", "Transportation infrastructure"],
+        "ExtractivePractice": "Hunting",
+        "InfrastructureLink": ["Butcher, slaughterhouse, or cannery", "Anthropogenic food preparation site", "Restaurant or food marketplace", "Roads and highways", "Wheeled vehicles and overland transportation"],
+        "CompanyLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown multiple of involved humans",
+        "HumanNames": "Pearson",
+        "HumanGender": "Male",
+        "SocialGroup": ["Hunters of the American West", "Urban populations of the American West", "“Missourians” of the American West"],
+        "HumanFatality": "No known fatality or injury",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not known to be retaliatory",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Meat",
+        "PredMortality": "Killed",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Sacramento Transcript",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.629749,
+          38.560823
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Mr. Pearson, who resides some thirty miles west of this city, brought into market yesterday, a wagon load of wild meats. An old grizzly with three cubs, together with a dozen of deer. Mr. P. states that grizzlies may be found in the tules ten miles west of the city, as also an abundance of deer. He is an excellent hunter, and is realizing a good deal of money by his attention to this pursuit. The game bro’t to this city was killed by himself and sons since Friday last. He had about five hundred pounds of deer meat which is worth twenty cents a pound, and this would rate him $100. The three cubs would weigh about one hundred and twenty pounds, and the old bear three hundred and fifty — which, at fifty cents a pound, yielded him $235. The bears vary in the number of cubs. — Sometimes they are found with only one, then two, but Mr. P. says, from his observation, they generally have from two to three cubs. Within the past season he has managed to kill ten or twelve bears, and he has not kept count of the deer, on account of the vast number. The old bear brought in yesterday received a dozen of shots before she fell, and was quite savage, though ‘twas no use to hold out, as the old Missourian was bound to have his game.“ GB.1851.4A, Killing Grizzlies, Sacramento Transcript, Volume 2, Number 117, 12 March 1851. Please see the Predator Microhistory Network's entry for GB.1851.4A, GB.1851.4B, GB.1851.4C, and GB.1851.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/1/17/Yolo_Causeway_circa_1920.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/17/Yolo_Causeway_circa_1920.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Yolo_Bypass_Wildlife_Area",
       "type": "Feature",
       "properties": {
@@ -128,9 +231,9 @@
         "Country": "United States",
         "Sex": "Female",
         "Age": "Advanced Age",
-        "Weight": "300-400lbs",
+        "Weight": "400-500lbs",
         "Length": "Unknown",
-        "Health": "Poor health or condition",
+        "Health": "Not applicable",
         "PoorHealth": "Reference to advanced age",
         "TrackWidth": "Unknown",
         "TrackLength": "Unknown",
@@ -198,7 +301,7 @@
       },
       "descriptions": [
         {
-          "value": "“Mr. Pearson, who resides some thirty miles west of this city, brought into market yesterday, a wagon load of wild meats. An old grizzly with three cubs, together with a dozen of deer. Mr. P. states that grizzlies may be found in the tules ten miles west of the city, as also an abundance of deer. He is an excellent hunter, and is realizing a good deal of money by his attention to this pursuit. The game bro’t to this city was killed by himself and sons since Friday last. He had about five hundred pounds of deer meat which is worth twenty cents a pound, and this would rate him $100. The three cubs would weigh about one hundred and twenty pounds, and the old bear three hundred and fifty — which, at fifty cents a pound, yielded him $235. The bears vary in the number of cubs. — Sometimes they are found with only one, then two, but Mr. P. says, from his observation, they generally have from two to three cubs. Within the past season he has managed to kill ten or twelve bears, and he has not kept count of the deer, on account of the vast number. The old bear brought in yesterday received a dozen of shots before she fell, and was quite savage, though ‘twas no use to hold out, as the old Missourian was bound to have his game.“ GB.1851.4, Killing Grizzlies, Sacramento Transcript, Volume 2, Number 117, 12 March 1851. Please see the Predator Microhistory Network's entry for GB.1851.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“Mr. Pearson, who resides some thirty miles west of this city, brought into market yesterday, a wagon load of wild meats. An old grizzly with three cubs, together with a dozen of deer. Mr. P. states that grizzlies may be found in the tules ten miles west of the city, as also an abundance of deer. He is an excellent hunter, and is realizing a good deal of money by his attention to this pursuit. The game bro’t to this city was killed by himself and sons since Friday last. He had about five hundred pounds of deer meat which is worth twenty cents a pound, and this would rate him $100. The three cubs would weigh about one hundred and twenty pounds, and the old bear three hundred and fifty — which, at fifty cents a pound, yielded him $235. The bears vary in the number of cubs. — Sometimes they are found with only one, then two, but Mr. P. says, from his observation, they generally have from two to three cubs. Within the past season he has managed to kill ten or twelve bears, and he has not kept count of the deer, on account of the vast number. The old bear brought in yesterday received a dozen of shots before she fell, and was quite savage, though ‘twas no use to hold out, as the old Missourian was bound to have his game.“ GB.1851.4, Killing Grizzlies, Sacramento Transcript, Volume 2, Number 117, 12 March 1851. Please see the Predator Microhistory Network's entry for GB.1851.4A, GB.1851.4B, GB.1851.4C, and GB.1851.4 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
