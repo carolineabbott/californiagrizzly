@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1851.2",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "March",
+        "Day": "27",
+        "NativeLandRel": ["Chumash", "Obispeño", "Salinan", "Purisemeño"],
+        "CACityTown": "San Luis Obispo",
+        "County": "San Luis Obispo County",
+        "USState": "California",
+        "MexTerr": "Not applicable",
+        "Country": "United States",
+        "Sex": "Not applicable",
+        "Age": "Not applicable",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "Not applicable",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Spring",
+        "WinterRest": ["With relationship to den emergence following winter rest", "With relationship to winter rest period, torpor sleep, or hibernation"],
+        "StandardLang": "Human-Bear Interaction",
+        "ConflictDrivers": "None referenced",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory refers to a population of bears",
+        "MaternityLink": "Not applicable",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": ["Unspecified livestock", "Feral livestock referenced"],
+        "WildAnimals": "Deer",
+        "Birds": "Quail",
+        "Fish": "None referenced",
+        "Plant": ["Pine", "Unspecified grass", "Oak"],
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "Santa Lucia Montane Chaparral & Woodlands"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": ["Rough surf", "Wind"],
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Santa Lucia Mountains", "Santa Lucia foothills"],
+        "Mountain": "None referenced",
+        "Valley": "Los Osos Valley",
+        "CalRiverSystem": "Morro Bay watershed",
+        "CalRiver": "Not applicable",
+        "CalCreek": ["Los Osos Creek", "Chorro Creek"]
+        "ExtractiveLink": ["Ranching", "Hunting", "Mining", "Prospecting", "Agriculture", "Transportation infrastructure", "Maritime trade", "Associated with the dispossession or removal of an Indigenous group", "Associated with the dispossession or removal of Mexican communities"],
+        "ExtractivePractice": ["Ranching", "Hunting", "Mining", "Prospecting", "Tourism", "Regulation or monetization of human movement", "Associated with the dispossession or removal of an Indigenous group", "Associated with the dispossession or removal of Mexican communities", "Maritime trade"],
+        "InfrastructureLink": ["Steamboats", "Wharves, ports, and docks", "Ships"],
+        "CompanyLink": ["Argus", "Daily Pacific News"],
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown multiple of involved humans",
+        "HumanNames": ["Lieut. Blunt", "Captain Irvin", "Ottfried", "Melchios", "Loetter"],
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Tourists, Journalists, and Writers of the American West", "German settlers of the American West", "Maritime settlers of the American West", "Mountain men of the American West", "Military figures of the American West", "Hunters of the American West"],
+        "HumanFatality": "Not applicable",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Alta California",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.813553,
+          35.306267
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A second morning brings us to the bay on which is the landing of San Luis Obispo, which is distant ten or twelve miles in a beautiful valley, shut in by the rugged hills which line the coast. Here, undisturbed in his native haunts among these hills, although within thirty hours of the most skillful and experienced sportsmen the world affords, roam the ugly grizzly in force; the shy quail whistles and the timid deer feeds with as much composure as they did years ago. And so they will continue to do until by the introduction of steam navigation and the coming of the ruthless hunter they yield up their lives to aid the march of civilization.“ T.GB.1851.2, Notes Along the Coast — South. No. I., Daily Alta California, Volume 2, Number 118, 6 April 1851. Please see the Predator Microhistory Network's entry for T.GB.1851.2 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/California_-_San_Luis_Obispo_Bay_-_NARA_-_23935219.jpg/3840px-California_-_San_Luis_Obispo_Bay_-_NARA_-_23935219.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/California_-_San_Luis_Obispo_Bay_-_NARA_-_23935219.jpg/3840px-California_-_San_Luis_Obispo_Bay_-_NARA_-_23935219.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Ecosystem",
       "type": "Feature",
       "properties": {
