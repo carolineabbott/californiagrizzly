@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Miwok_languages",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1851.8A",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1850",
+        "Month": "April",
+        "Day": "20",
+        "NativeLandRel": ["Chochenyo", "Ohlone", "Karkin", "Patwin (Wintun Tʼewe)", "Miwok", "Coast Miwok", "Me-Wuk (Bay Miwok)", "Yokuts", "Mutsun", "Tamien"],
+        "CACityTown": "Unknown",
+        "County": "Contra Costa County",
+        "USState": "California",
+        "MexTerr": "Not applicable",
+        "Country": "United States",
+        "Sex": "Unknown",
+        "Age": "Young or juvenile",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": ["Captive bear or bears", "Captive bear or bears"],
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Spring",
+        "WinterRest": ["With relationship to den emergence following winter rest", "With relationship to period of normal activity following winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": ["Conditions for human-Bear conflict implied with few details", "Encounter during period of den emergence following winter rest period or marks a disturbance thereof", "Proximity to Cubs", "Self protection", "Cubs protection", "Human aggression"],
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "None referenced",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves more than one Bear",
+        "MaternityLink": "Entanglement with maternity possible but not stated",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": ["Orphaned", "Captured or captive", "Survived"],
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "Unknown",
+        "Livestock": "Unknown",
+        "WildAnimals": "Brown Bear",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "California Central Valley Grasslands"],
+        "Biome": ["Mediterranean Forests, Woodlands & Scrub", "Temperate Grasslands, Savannas & Shrublands"],
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["California Coast Ranges", "California Coast Range Foothills"],
+        "Mountain": "None referenced",
+        "Valley": "None referenced",
+        "CalRiverSystem": "San Francisco Bay Watershed",
+        "CalRiver": "None referenced",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Live capture of wild animals", "Hunting", "Prospecting"],
+        "ExtractivePractice": ["Live capture of wild animals", "Hunting", "Prospecting"],
+        "InfrastructureLink": "Unknown",
+        "CompanyLink": "Pacific Market",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown number of involved humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": "Unknown",
+        "SocialGroup": ["Hunters of the American West", "Urban populations of the American West"],
+        "HumanFatality": "No known fatality or injury",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Survived",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Daily Pacific News",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.887824,
+          37.888981
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A large grizzly bear was butchered in the Pacific Market yesterday morning. It was shot somewhere across the bay, and two cubs were taken at the same time. The cubs were sold for $125 a piece.“ GB.1851.8A, A Large Bear, Daily Pacific News, Volume II, Number 228, 22 April 1851. Please see the Predator Microhistory Network's entry for GB.1851.8A, GB.1851.8B, and GB.1851.8 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mount_Diablo%2C_from_Clayton%2C_-_near_view%2C_Contra_Costa_County_LCCN2002722045.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mount_Diablo%2C_from_Clayton%2C_-_near_view%2C_Contra_Costa_County_LCCN2002722045.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Miwok",
       "type": "Feature",
       "properties": {
@@ -198,7 +301,7 @@
       },
       "descriptions": [
         {
-          "value": "“A large grizzly bear was butchered in the Pacific Market yesterday morning. It was shot somewhere across the bay, and two cubs were taken at the same time. The cubs were sold for $125 a piece.“ GB.1851.8, A Large Bear, Daily Pacific News, Volume II, Number 228, 22 April 1851. Please see the Predator Microhistory Network's entry for GB.1851.8 for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
+          "value": "“A large grizzly bear was butchered in the Pacific Market yesterday morning. It was shot somewhere across the bay, and two cubs were taken at the same time. The cubs were sold for $125 a piece.“ GB.1851.8, A Large Bear, Daily Pacific News, Volume II, Number 228, 22 April 1851. Please see the Predator Microhistory Network's entry for GB.1851.8, GB.1851.8A, and GB.1851.8B for full context and citations. This microhistory can be accessed through the California Digital Newspaper Collection."
         }
       ],
       "depictions": [
