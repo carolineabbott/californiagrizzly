@@ -136,7 +136,7 @@
         "TrackLength": "Unknown",
         "Season": "Spring",
         "WinterRest": ["With relationship to den emergence following winter rest", "With relationship to period of normal activity following winter rest"],
-        "StandardLang": "Human-Bear Conflict",
+        "StandardLang": ["Human-Bear Conflict", "Human-Bear Interaction"],
         "ConflictDrivers": ["Human aggression", "Self protection", "Approaching a wild Bear at any range", "Encounter during period of den emergence following winter rest period or marks a disturbance thereof"],
         "Defensive": ["Avoid threat or perceived threat", "Approach threat or perceived threat"],
         "NonDefensive": "None referenced",
