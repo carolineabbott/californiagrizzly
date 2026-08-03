@@ -106,6 +106,108 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Wagon",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "GB.1851.12",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "UAN",
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1851",
+        "Month": "UAN",
+        "Day": "25",
+        "NativeLandRel": ["Patwin (Wintun Tʼewe)", "Nisenan", "Plains Miwok"],
+        "CACityTown": "Sacramento",
+        "County": "Sacramento County",
+        "USState": "California",
+        "MexTerr": "Alta California",
+        "Country": "United States",
+        "Sex": "Male",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": ["Poor health or condition", "Captive bear or bears"],
+        "PoorHealth": "Captive bear or bears",
+        "TrackWidth": "Unknown",
+        "TrackLength": "Unknown",
+        "Season": "Summer",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "StandardLang": ["Human-Bear Conflict", "Conflict Bear", "Translocation"],
+        "ConflictDrivers": ["Captive animal", "Human aggression", "Approaching a wild Bear at any range", "Public display of a wild or formerly wild Bear", "Conditions for human-Bear conflict implied with few details"],
+        "Defensive": "None referenced",
+        "NonDefensive": "None referenced",
+        "BearStress": "Captive Bear",
+        "CuriousBear": "None referenced",
+        "Sympatry": "None referenced", 
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "No relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "Horses",
+        "Livestock": "Horses",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Central Valley Grasslands",
+        "Biome": "Temperate Grasslands, Savannas & Shrublands",
+        "Weather": "None referenced",
+        "MajorWeather": "Not applicable",
+        "MountainRange": "Not applicable",
+        "Mountain": "None referenced",
+        "Valley": ["Sacramento Valley", "Central Valley"],
+        "CalRiverSystem": "Sacramento River System",
+        "CalRiver": "Sacramento River",
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Hunting", "Live capture of wild animals", "Public display of wild animals for performance, study, or entertainment", "Transportation infrastructure"],
+        "ExtractivePractice": ["Hunting", "Live capture of wild animals", "Public display of wild animals for performance, study, or entertainment", "Tourism"],
+        "CompanyLink": "None referenced",
+        "ImperialRel": "American",
+        "NumberHumans": "This microhistory refers to an unknown multiple of involved humans",
+        "HumanNames": "No names referenced",
+        "HumanGender": ["Male", "Mixed gender"],
+        "SocialGroup": ["Hunters of the American West", "Urban populations of the American West"],
+        "HumanFatality": "No known fatality or injury",
+        "HumanInjury": "Not applicable",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Survived",
+        "Bloodsport": "Unknown relationship",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": "Sacramento Daily Union",
+        "SourceOrigin": "California Digital Newspaper Collection"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.494314,
+          38.580635
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“A covered wagon containing a large sized grizzly bear was driven up J street yesterday morning. The driver reined up his horses for a moment in the middle of the street, when a crowd instantly collected to get a peep at ‘Bruin.’ The owner however intends probably to exhibit him ‘for a consideration,’ as he cracked his whip and started his team before the curious had a look at the animal ‘all around.’“ GB.1851.12, A California Grizzly, Sacramento Daily Union, Volume 1, Number 86, 26 June 1851. Please see the Predator Microhistory Network's entry for GB.1851.12 for full context and citations. The primary source associated with this microhistory can be accessed through the California Digital Newspaper Collection."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/d/d1/J_street%2C_Sacramento%2C_from_Hastings%27_Block_LCCN2002719822.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d1/J_street%2C_Sacramento%2C_from_Hastings%27_Block_LCCN2002719822.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/San_Joaquin,_California",
       "type": "Feature",
       "properties": {
