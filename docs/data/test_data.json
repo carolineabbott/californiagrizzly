@@ -106,6 +106,109 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Mission_San_Gabriel_Arc%C3%A1ngel",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Not applicable",
+        "GBSubtype": "Not applicable",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.U.1779.1",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "Tracks",
+        "Century": "18th century",
+        "Decade": "1770-1779",
+        "Year": "1779",
+        "Month": "September",
+        "Day": "8",
+        "NativeLandRel": ["Tongva-Gabrieleño", "Tongva", "Gabrieleño", "Kizh"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Alta California (Pimería Alta)",
+        "Country": "Nueva España (New Spain)",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Animal involved unknown",
+        "PoorHealth": "Animal involved unknown",
+        "TrackWidth": "None referenced",
+        "TrackLength": "None referenced",
+        "Season": "Summer",
+        "WinterRest": "With relationship to period of hyperphagia preceding winter rest",
+        "StandardLang": "Animal involved unknown",
+        "ConflictDrivers": "Encounter during period of hyperphagia preceding winter rest period",
+        "Defensive": "Animal involved unknown",
+        "NonDefensive": "Animal involved unknown",
+        "BearStress": "Animal involved unknown",
+        "CuriousBear": "Animal involved unknown",
+        "Sympatry": "Animal involved unknown", 
+        "Bearhaviours": "Animal involved unknown",
+        "NumberBears": "Animal involved unknown",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "Unknown",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Coastal Sage and Chaparral"
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["San Gabriel Mountains", "Transverse Ranges"],
+        "Mountain": "None referenced",
+        "Valley": "San Gabriel Valley",
+        "CalRiverSystem": ["San Gabriel River System", "Los Angeles River Watershed"],
+        "CalRiver": ["Rio Hondo", "San Gabriel River"],
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Ranching", "Agriculture", "Associated with the dispossession or removal of an Indigenous group", "Forced labor and coercive control of an Indigenous group and its resources"],
+        "ExtractivePractice": ["Forced labor and coercive control of an Indigenous group and its resources", "Associated with the dispossession or removal of an Indigenous group", "Regulation or monetization of human movement", "Ranching", "Unknown relationship"],
+        "InfrastructureLink": ["Franciscan mission infrastructure", "Ranching or agricultural infrastructure"],
+        "CompanyLink": "Not applicable",
+        "ImperialRel": "Spanish",
+        "NumberHumans": "This microhistory refers to an unknown number of involved humans",
+        "HumanNames": ["Antonio Cruzado", "Gregoria Maria (Spanish name)", "Antonio Maria (Spanish name)", "Ignacio Maria (Spanish name)"],
+        "HumanGender": "Male",
+        "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
+        "HumanFatality": "Human fatality or fatalities",
+        "HumanInjury": "Known injury, severe but nonspecific",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Unknown",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Population Database or Archive",
+        "PrintMedState": "Not applicable",
+        "CalPrint": "Not applicable",
+        "SourceOrigin": "Early California Population Project Database"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.121971,
+          34.119988
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Indios de esta mission Gregoria Maria [n.c.1759-m.1779, veinte anos, Bap: 00288], [esposa de] Ignacio (o Ygnacio) Maria [n.c.1763-m.1812, Bap: 00070] [y sus] hijo, Antonio Maria (n. 7 de Junio, 1779- 8 de Sieptiembre, 1779), Bap: 00497) hallaron muertos en esta Mission como media legua distante, io mas del comida de los animales. [Gregoria Maria y su hijo era] de Adjuibit. Enterrado en el Cementerio de esta Mission. Antonio Cruzado.“ T.U.1779.1, Burial number(s): 00099 and 00100, Early California Population Project Database. Content notice: engage this history with respect and care. On September 8th, 1779, the bodies of Gregoria Maria and her the three month old son, Antonio Maria, were found approximately one and a half (modern) miles from the grounds of the San Gabriel Arcángel mission (modern-day San Gabriel, California). The condition of their remains led Antonio Paterna, officiant to and recorder of the burials for both, to indicate that they had been “largely consumed by animals.” Gregoria was twenty years old, originally native to Awingna (Awizna, Awig-na, Awigna), a Tongva-Gabrieleño settlement twelve miles east of an Gabriel Arcángel near modern La Puente, California (see: Sam Villa, Villages, tongvapeople [dot] org). She was married to Ignacio (Ygnacio) Maria, originally native to the settlement of Pomoquin, with whom she lived at San Gabriel Arcángel. The extent to which this record implies a relationship with scavenging or prey caching behavior is unclear, and no further information on associated species can be discerned from available records at this time. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.U.1779.1 for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ancient_ovens_used_by_the_Indians_behind_the_church_of_Mission_San_Gabriel%2C_California%2C_ca.1908_%28CHS-1441%29.jpg/3840px-Ancient_ovens_used_by_the_Indians_behind_the_church_of_Mission_San_Gabriel%2C_California%2C_ca.1908_%28CHS-1441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ancient_ovens_used_by_the_Indians_behind_the_church_of_Mission_San_Gabriel%2C_California%2C_ca.1908_%28CHS-1441%29.jpg/3840px-Ancient_ovens_used_by_the_Indians_behind_the_church_of_Mission_San_Gabriel%2C_California%2C_ca.1908_%28CHS-1441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Bidwell%27s_Bar,_California",
       "type": "Feature",
       "properties": {
