@@ -20,6 +20,7 @@
     { "name": "Location by California County", "path": ["properties", "County"] },    
     { "name": "Location by US State or Territory", "path": ["properties", "USState"] },
     { "name": "Location by Mexican State or Territory", "path": ["properties", "MexTerr"] },
+    { "name": "Associated Mission", "path": ["properties", "Mission"] },
     { "name": "Location by Country", "path": ["properties", "Country"] },
     { "name": "Sex", "path": ["properties", "Sex"] },
     { "name": "Age", "path": ["properties", "Age"] },
