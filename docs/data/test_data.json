@@ -106,13 +106,117 @@
       ]
     },
     {
-      "@id": "https://en.wikipedia.org/wiki/Mission_San_Carlos_Borromeo_de_Carmelo",
+      "@id": "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
       "type": "Feature",
       "properties": {
-        "BearType": "T.GB.1780.1",
         "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1786.1",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "Tracks",
+        "Century": "18th century",
+        "Decade": "1780-1789",
+        "Year": "1786",
+        "Month": "May",
+        "Day": "8",
+        "NativeLandRel": ["Tongva-Gabrieleño", "Tongva", "Gabrieleño", "Kizh"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Alta California (Pimería Alta)",
+        "Mission": "San Gabriel Arcángel",
+        "Country": "Nueva España (New Spain)",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "None referenced",
+        "TrackLength": "None referenced",
+        "Season": "Spring",
+        "WinterRest": ["With relationship to period of normal activity following winter rest", "With relationship to den emergence following winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Unknown",
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Charge",
+        "CuriousBear": "Unknown",
+        "Sympatry": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory may involve multiple bears",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "California Coastal Sage and Chaparral",
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["San Gabriel Mountains", "Transverse Ranges"],
+        "Mountain": "None referenced",
+        "Valley": "San Gabriel Valley",
+        "CalRiverSystem": ["San Gabriel River System", "Los Angeles River Watershed"],
+        "CalRiver": ["Rio Hondo", "San Gabriel River"],
+        "CalCreek": "None referenced",
+        "ExtractiveLink": ["Ranching", "Agriculture", "Associated with the dispossession or removal of an Indigenous group", "Forced labor and coercive control of an Indigenous group and its resources"],
+        "ExtractivePractice": ["Forced labor and coercive control of an Indigenous group and its resources", "Associated with the dispossession or removal of an Indigenous group", "Regulation or monetization of human movement", "Ranching", "Unknown relationship"],
+        "InfrastructureLink": ["Franciscan mission infrastructure", "Ranching or agricultural infrastructure"],
+        "CompanyLink": "Not applicable",
+        "ImperialRel": "Spanish",
+        "NumberHumans": "1",
+        "HumanNames": ["Florentina Gertrudis (Spanish name)", "Miguel Sanchez"],
+        "HumanGender": "Female",
+        "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
+        "HumanFatality": "Human fatality or fatalities",
+        "HumanInjury": "Known injury, severe but nonspecific",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Unknown",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Population Database or Archive",
+        "PrintMedState": "Not applicable",
+        "CalPrint": "Not applicable",
+        "SourceOrigin": "Early California Population Project Database"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.106175,
+          34.084217
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "Miguel Sanchez recorded the death and burial of Florentina Gertrudis of Mission San Gabriel Arcángel as follows: “mataron los osos” [en] “el campo.” Sanchez writes that, inferrably owing to circumstance, Florentina was unable to receive last sacrament. Florentina's baptismal record denotes her origin as “rancheria [de] Cucamobit,” a reference which should be taken in dialogue with a number of known Gabrielino-Tongva settlement and community sites, including Cucamonga (see: Sam Villa, Villages, tongvapeople (dot) org; Villarreal et al., “Analysis of a Middle Period Site at Little Red Hill in Rancho Cucamonga.”). She was buried May 9th, 1786, roughly two months after her baptism on March 3rd, 1786 at the Church of San Gabriel Arcángel. Florentina was listed as being twenty years old at the time of her baptism, suggesting a potential birth date c.1766. Miguel Sanchez officiated and recorded Florentina’s burial the church cemetery. Baptism number: 01311, Burial number(s): 00435. T.GB.1786.1, Early California Population Project Database. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1786.1 for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/4/44/Carmel_Mission.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/44/Carmel_Mission.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Mission_San_Carlos_Borromeo_de_Carmelo",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1780.1",
         "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
         "TrackorUAN": "Tracks",
         "Century": "18th century",
@@ -173,8 +277,8 @@
         "InfrastructureLink": ["Franciscan mission infrastructure", "Ranching or agricultural infrastructure"],
         "CompanyLink": "Not applicable",
         "ImperialRel": "Spanish",
-        "NumberHumans": "This microhistory refers to an unknown number of involved humans",
-        "HumanNames": ["Marcial Joseph", "Petronila Maria Grande", "Junípero Serra"],
+        "NumberHumans": "1",
+        "HumanNames": ["Marcial Joseph (Spanish name)", "Petronila Maria Grande (Spanish name)", "Junípero Serra"],
         "HumanGender": "Male",
         "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
         "HumanFatality": "Human fatality or fatalities",
@@ -199,7 +303,7 @@
       },
       "descriptions": [
         {
-          "value": "“Junípero Serra recorded the death and burial of Marcial Joseph of Mission San Carlos Borromeo as follows: “despedaza de un fiero osso en el campo cerca Tucutnut p.a donde el dia 13 [de Junio 1780] havia falido de aca con mi licencia, dia 14 le sucedio la desgracia y lo traxeron y de nuevo confesado y oleado hayer dia 15 murio.” Following the encounter, Marcial Joseph received “Confirmation, Penance, and Extreme Unction” (the Anointing of the Sick) “having again received confession and the last rites.” Serra wrote that Marcial was “from Echilat,” and was the “husband of Petronila Maria,” a twelve-year-old girl who also belonged “to this mission.” Serra officiated and recorded Marcial’s burial the church cemetery, number 00161. Baptism number 00343.“ T.GB.1780.1, Burial number(s): 00161, Early California Population Project Database. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historiized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to do so. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1780.1 for full context and citations."
+          "value": "“Junípero Serra recorded the death and burial of Marcial Joseph of Mission San Carlos Borromeo as follows: “despedaza de un fiero osso en el campo cerca Tucutnut p.a donde el dia 13 [de Junio 1780] havia falido de aca con mi licencia, dia 14 le sucedio la desgracia y lo traxeron y de nuevo confesado y oleado hayer dia 15 murio.” Following the encounter, Marcial Joseph received “Confirmation, Penance, and Extreme Unction” (the Anointing of the Sick) “having again received confession and the last rites.” Serra wrote that Marcial was “from Echilat,” and was the “husband of Petronila Maria,” a twelve-year-old girl who also “belonged to this mission.” Serra officiated and recorded Marcial’s burial the church cemetery. Baptism number 00343.“ T.GB.1780.1, Burial number(s): 00161, Early California Population Project Database. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1780.1 for full context and citations."
         }
       ],
       "depictions": [
