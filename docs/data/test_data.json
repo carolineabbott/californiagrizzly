@@ -106,6 +106,110 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_de_Paula_Se%C3%B1an",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1791.1",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "Tracks",
+        "Century": "18th century",
+        "Decade": "1790-1799",
+        "Year": "1791",
+        "Month": "November",
+        "Day": "9",
+        "NativeLandRel": ["Rumsen Ohlone", "Rumsen", "Ohlone"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Alta California (Pimería Alta)",
+        "Mission": "San Carlos Borromeo",
+        "Country": "Nueva España (New Spain)",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "None referenced",
+        "TrackLength": "None referenced",
+        "Season": "Autumn",
+        "WinterRest": ["With relationship to “predenning” or denning preceding winter rest", "With relationship to period of hyperphagia preceding winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Unknown",
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Charge",
+        "CuriousBear": "Unknown",
+        "Sympatry": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory may involve multiple bears",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": "Santa Lucia Montane Chaparral & Woodlands",
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Santa Lucia Mountains", "Santa Lucia foothills"],
+        "Mountain": "None referenced",
+        "Valley": "Carmel Valley",
+        "CalRiverSystem": "Carmel River Watershed",
+        "CalRiver": "Carmel River",
+        "CalCreek": ["Potrero Creek", "San Jose Creek"],
+        "ExtractiveLink": ["Ranching", "Agriculture", "Associated with the dispossession or removal of an Indigenous group", "Forced labor and coercive control of an Indigenous group and its resources"],
+        "ExtractivePractice": ["Forced labor and coercive control of an Indigenous group and its resources", "Associated with the dispossession or removal of an Indigenous group", "Regulation or monetization of human movement", "Ranching", "Unknown relationship"],
+        "InfrastructureLink": ["Franciscan mission infrastructure", "Ranching or agricultural infrastructure"],
+        "CompanyLink": "Not applicable",
+        "ImperialRel": "Spanish",
+        "NumberHumans": "1",
+        "HumanNames": ["Chalc (Francisca Maria (Spanish name))", "Estanislao Jose Tupay (Spanish name)", "Felis / Felix Juan “El Ranchero” (Spanish name)", "Maria Francisca (Spanish name)", "José Señán", "Juan Crespí"],
+        "HumanGender": "Female",
+        "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
+        "HumanFatality": "Human fatality or fatalities",
+        "HumanInjury": "Known injury, severe but nonspecific",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Unknown",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Population Database or Archive",
+        "PrintMedState": "Not applicable",
+        "CalPrint": "Not applicable",
+        "SourceOrigin": "Early California Population Project Database"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.889294,
+          36.538047
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“José Señán recorded the death and burial of Chalc (assigned the Spanish name Francisca Maria at baptism), an Indigenous woman of about twenty-five years of age at Mission San Carlos Borromeo as follows: “Francisca Maria (Chalc) [era] despedazada por los ossos (segun mas piamente se cree) ... cortonos de esta mision ... se recogieron todos los fracmentos q.e se pudo de su cadaver y fueron sepultados a la entrada de la Iglesia de esta mision [el diez de Noviembre, 1791]. Desde el num[er]o 831 hasta el ante. 845 esta corregido y con esta tacha valen.” English: “Francisca Maria (Chalc) was torn to pieces by the bears (according to what is more piously believed)… at the outskirts of this mission … they recovered all of the fragments that they could (pudo) of her body … buried at the entrance of the church of this mission [on the] 10th of November 1791.” José Señán recorded Chalc’s burial at the “entrada de la Iglesia” following the fatal encounter, but is not listed as an officiant thereof. Chalc is described as the spouse of Estanislao Jose Tupay (Spanish name). Juan Crespí baptized both her mother (Maria Francisca (Spanish name, baptism number 00031)) on December 31st, 1772 at paraje de la Playa when she was twenty nine years old, and her father (Felis / Felix Juan “El Ranchero” (Spanish name, baptism number 00130)) on the 22nd June 1773, when he was twenty eight. Chalc‘ s parents‘ and siblings‘ baptismal records, as well as her own, all denote their individual origins as “Tucutnnut alias la rancheria de Santa Thereza.” Baptism link mission number 00061, Burial number(s): 00833. T.GB.1791.1, Early California Population Project Database. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1791.1 for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Carmel_mission_1854.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Carmel_mission_1854.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California",
       "type": "Feature",
       "properties": {
@@ -199,13 +303,13 @@
       },
       "descriptions": [
         {
-          "value": "Miguel Sanchez recorded the death and burial of Florentina Gertrudis of Mission San Gabriel Arcángel as follows: “mataron los osos” [en] “el campo.” Sanchez writes that, inferrably owing to circumstance, Florentina was unable to receive last sacrament. Florentina's baptismal record denotes her origin as “rancheria [de] Cucamobit,” a reference which should be taken in dialogue with a number of known Gabrielino-Tongva settlement and community sites, including Cucamonga (see: Sam Villa, Villages, tongvapeople (dot) org; Villarreal et al., “Analysis of a Middle Period Site at Little Red Hill in Rancho Cucamonga.”). She was buried May 9th, 1786, roughly two months after her baptism on March 3rd, 1786 at the Church of San Gabriel Arcángel. Florentina was listed as being twenty years old at the time of her baptism, suggesting a potential birth date c.1766. Miguel Sanchez officiated and recorded Florentina’s burial the church cemetery. Baptism number: 01311, Burial number(s): 00435. T.GB.1786.1, Early California Population Project Database. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1786.1 for full context and citations."
+          "value": "Miguel Sanchez recorded the death and burial of Florentina Gertrudis of Mission San Gabriel Arcángel as follows: “mataron los osos” [en] “el campo.” Sanchez writes that, inferrably owing to circumstance, Florentina was unable to receive last sacrament. Florentina's baptismal record denotes her origin as “rancheria [de] Cucamobit,” a reference which should be taken in dialogue with a number of known Gabrielino-Tongva settlement and community sites, including Cucamonga (see: Sam Villa, Villages, tongvapeople (dot) org; Villarreal et al., “Analysis of a Middle Period Site at Little Red Hill in Rancho Cucamonga.”). She was buried May 9th, 1786, roughly two months after her baptism on March 3rd, 1786 at the Church of San Gabriel Arcángel. Florentina was listed as being twenty years old at the time of her baptism, suggesting a potential birth date c.1766. Miguel Sanchez officiated and recorded Florentina’s burial in the church cemetery. Baptism number: 01311, Burial number(s): 00435. T.GB.1786.1, Early California Population Project Database. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1786.1 for full context and citations."
         }
       ],
       "depictions": [
         {
-          "@id": "https://upload.wikimedia.org/wikipedia/commons/4/44/Carmel_Mission.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/44/Carmel_Mission.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_old_San_Gabriel_Mission%2C_San_Gabriel%2C_Cal%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_old_San_Gabriel_Mission%2C_San_Gabriel%2C_Cal%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
         }
       ]
     },
