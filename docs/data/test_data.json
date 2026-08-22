@@ -109,8 +109,8 @@
       "@id": "https://en.wikipedia.org/wiki/Esselen",
       "type": "Feature",
       "properties": {
-        "BearType": "Bear, Ursus (Unspecified)",
-        "GBSubtype": "Not applicable",
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "BBSubtype": "Not applicable",
         "CatalogueNumber": "T.GB.1793.3",
         "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
