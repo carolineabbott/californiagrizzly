@@ -162,7 +162,7 @@
         "Biome": "Mediterranean Forests, Woodlands & Scrub",
         "Weather": "None referenced",
         "MajorWeather": "None referenced",
-        "MountainRange": ["Santa Ynez Mountains, "Transverse Ranges"],
+        "MountainRange": ["Santa Ynez Mountains", "Transverse Ranges"],
         "Mountain": "None referenced",
         "Valley": "Not applicable",
         "CalRiverSystem": ["Mission Creek Watershed", "Santa Ynez River Watershed"],
