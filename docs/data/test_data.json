@@ -178,7 +178,7 @@
         "HumanGender": "Male",
         "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
         "HumanFatality": "Human fatality or fatalities",
-        "HumanInjury": "Known injury, severe but nonspecific",
+        "HumanInjury": ["Trunk or torso", "Glutes and groin", "Legs and feet", "Known injury, severe but nonspecific"],
         "Retaliatory": "Unknown",
         "RetaliatoryMotive": "Not applicable",
         "CorpusComm": "Unknown",
