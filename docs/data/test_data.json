@@ -106,6 +106,110 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Montecito,_California",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1798.2",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "Tracks",
+        "Century": "18th century",
+        "Decade": "1790-1799",
+        "Year": "1798",
+        "Month": "June",
+        "Day": "20",
+        "NativeLandRel": ["Chumash", "Barbareño"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Alta California (Pimería Alta)",
+        "Mission": "Santa Barbara",
+        "Country": "Nueva España (New Spain)",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "None referenced",
+        "TrackLength": "None referenced",
+        "Season": "Summer",
+        "WinterRest": "With relationship to period of normal activity following winter rest",
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Unknown",
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Charge",
+        "CuriousBear": "Unknown",
+        "Sympatry": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Coastal Sage and Chaparral", "California Montane Chaparral and Woodlands"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Santa Ynez Mountains", "Transverse Ranges"],
+        "Mountain": "Not applicable",
+        "Valley": "Montecito Valley",
+        "CalRiverSystem": "San Ysidro Creek Watershed",
+        "CalRiver": "Not applicable",
+        "CalCreek": ["San Ysirdo Creek", "Montecito Creek", "Toro Canyon Creek"],
+        "ExtractiveLink": ["Associated with ECPP Type “-” Baptismal Record", "Associated with the dispossession or removal of an Indigenous group", "Forced labor and coercive control of an Indigenous group and its resources"],
+        "ExtractivePractice": ["Associated with ECPP Type “-” Baptismal Record", "Forced labor and coercive control of an Indigenous group and its resources", "Associated with the dispossession or removal of an Indigenous group", "Regulation or monetization of human movement"],
+        "InfrastructureLink": ["Franciscan mission infrastructure", "Mining infrastructure"],
+        "CompanyLink": "Not applicable",
+        "ImperialRel": "Spanish",
+        "NumberHumans": "1",
+        "HumanNames": ["Francisca (Spanish name)", "Guisulato", "Francisco Maria (Spanish name)", "Muemeyaxu (Juan Jose (Spanish name))", "Justa Maria, Maria Guadalupe (Spanish name)", "Najaita (Luis, Luiz (Spanish name))", "Jose de Miguel"],
+        "HumanGender": "Female",
+        "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
+        "HumanFatality": ["No known fatality", "Human injury"],
+        "HumanInjury": "Known injury, severe but nonspecific",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Unknown",
+        "PredMortality": "Unknown",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Population Database or Archive",
+        "PrintMedState": "California",
+        "CalPrint": "Not applicable",
+        "SourceOrigin": "Early California Population Project Database"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.621922,
+          34.452270
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "Jose de Miguel recorded the June 20th, 1798 provisional baptism of “Francisca” (Spanish name) took place at “rancheria llamada Sinojoso,“ owing, the record describes, to her being ‘at the point of death’ following an encounter with a Bear (“in articulo mortis... a quien mordio el oso“). The provisional baptism was officiated by Najaita (Spanish name, Luis or Luiz), an Indigenous man fourth baptized in association with mission Santa Barbara (at the age of ten), acting as an interpreter for Mission Santa Barbara. The ECPP refers to the officiant of this baptism as “Luis, de Miguel, Jose” in Franisca‘s baptismal record: this is an amalgamation of Jose de Miguel and Najaita‘s Spanish name. The baptismal record records Francisca as 70 years of age at the time, suggesting a birth year of approximately 1728. Francisca survived the Bear encounter, and a burial record describes her passing in February of 1819. Importantly, no date is recorded for the “suppli ceremonia.” As the ECPP Guide for Users explains, “the padres also baptized individuals who they feared were in danger of imminent death or were otherwise unable to travel to the mission due to ill health” (19). Importantly, while they functioned to admit the baptized into the missionary system, such provisional baptisms were complemented with an additional baptismal ceremony. Again referring to the ECPP Guide, these ceremonies were performed “[at] a later date, if the ego survived,” at which point “the Franciscans would execute the complete rite of baptism, stating in the record that they had ‘supli las ceremonias,’ or in a crude translation, supplied the full ceremonies. It should be noted that this was not a second baptism, but the completion of the original baptism” (Guide for Users, 19). Reference to “Sinojoso” in this record (elsewhere referenced as Senojoso) is of potential use in contextualizing to the geography of this history. Though the location of the Chumash village to which this hispanicization refers is relevant to, and may be local to, the encounter between Francisca and the Bear, and though its relevance to the missionary project of the mission Santa Barbara is known, its location is simultaneously not well understood or documented in colonial archives and very important to identify for the purposes of the human-animal relationships this dataset seeks to evidence: on June 26th, 1798, an additional baptismal record suggests another, or perhaps related, instance of human-Bear conflict which occurs four years prior at the same month (season) in what appears to be the same site, or within this same area (see Engelhardt, 1923, 448-449, see baptism number 00789 and T.GB.1794.1 for further details). Engelhardt 1923 references a potential relationship with place names including “Chisolop,  Sisolop Chnajalayegua  lChniguaj,  Sniguaj Choloosos (on  island) Chuccu,  Succu  (Rin-con).” A comparative review of ECPP data further contextualizes the disambiguation “Sniguaj” in ways productive towards identifying the geography of this history, and so, the site of Francisca‘s encounter with the Bear. Francisca‘s baptismal record refers to her relative, Muemeyaxu, who holds one of the earliest baptism numbers associated with mission Santa Barbara (Baptism number 00006). Muemeyaxu (referred to variously across several records by multiple hispanicizations of his Native name Memeyaxu, Mamayaso, and Muemeyaxu, and by disambiguations of his Spanish name, “Juan Joseph,” including “Juan Jose,” and “Juan Josef”) was baptized January 24th, 1787 at the age of 18 by Antonio Paterna (implying a year of birth c.1769). At the time of Muemeyaxu‘s baptism at “la que servia de Yglesia” (this note of Paterna‘s adding material context to the early nature of this rite), his origin is referred to as the “rancheria llamada Snigua,” and while neither his father nor mother are referred to by name, the baptismal number 01402 is associated with his father. This baptismal record (also a provisional rite), administered on January 16th, 1800, identifies Muemeyaxu‘s father as “Francisco Maria,” identifying his paternal relationship with Muemeyaxu by both his Spanish name (“Juan Josef”) and baptismal number, and corroborating both the elder man‘s age (60 years old at time of baptism, born c.1740), and both his origin and the place at which the rite was performed as “Sniguaj,” or “rancheria de Sniguaj,” respectively. Francisco Maria‘s baptismal record also refers to a spousal relationship between Maria Guadalupe and his son Muemeyaxu, correlating with what is recorded in Francisca Maria‘s baptismal record. A search of baptismal records associated with “Sniguaj” as the place of baptism yields some additional insight into the geography of this location. A series of four baptisms conducted on the 8th of May, 1801 reveal a particular gender dynamic associated with this location: all are Native women, all experienced provisional baptisims, all are over the age of seventy, and across several, Juan Cortés‘s line explaining that “todos imposibilitados por su ancianidad y achaques de venir a la Mision” (all unable to come to the Mission due to old age and infirmities) is applied. This may (to say nothing of hesitation on more social grounds), suggest either difficulty or length of the journey between these locations (that Engelhardt associates this term with island Chumash communities is worth noting within this context, but data is not yet explicitly supportive of this). However, further supporting the distance suggested by Cortés is the emergence of another trend. In particular, the consistent utility and presence of baptized, Indigenous interpreters by Estevan Tapis - specifically, Najaita (corroborated as a consistent figure by reference to his wife, Justa Maria, throughout these records) - may suggest social and geographic factors which account for the difficulty to which Cortés later alludes, and the spatial relationship between mission Santa Barbara and this mission (Najaita acted at officiant for baptism numbers 00747 in 1793 and 01287 in 1798, both of which provisional). Importantly, these histories reveal further disambiguations which corroborate the relationship described by Engelhardt, broadening archival scope: in particular, “rancheria de Chniguaj” appears in these baptismal records (see, for example, provisional baptisms 01508 of September 5th, 1800, and 01522 of November 5th 1800, both officiated by Vicente Maria, Indigenous interpreter and recorded by Estevan Tapis). The baptismal record for “Francisca” do not identify whether Guisulato, her spouse‘s stated name at that time, and “Francisco Maria” (the Spanish name he was assigned after his own provisional baptism two years after her own) are the same person, nor confirm or deny her parental relationship to Muemeyaxu, the histories of both elders are united in shared community, place relationship, and familial ties to both Muemeyaxu and Maria Guadalupe (the spouse to which his baptismal and burial records refer). Further, that Najaita officiates provisional baptisms across two of the most prevalent place name disambiguations which appear to, or may, relate to the same geographic settlement area or community, including that associated with Francisca, adds credence to the possibility that these sites may relate to or represent the same geography and is thus worthy of note. It may be of use to consider the gendered roles of elderly women in the transmission of Traditional Ecological Knowledge (TEK) in Chumash society, with specific attention to the role of female elders in summer berry harvesting and burn practices, both of which occur in lowland areas into which brown bears moved during the spring summer transition to access the same energy flows (see: Tasoff, “A Chumash Cultural Burn Reignites Ancient Practice for Wildland Conservation,” Santa Barbara Museum of Natural History, 2023). In the event that this information in future proves to be correlated with this history, that burning practices were outlawed by the Spanish in May of 1793 (just five years prior to Francisca's encounter with the Bear) may offer further context. The coorelation between several of the sites, and their potential correlation to Engelhardt_s reference to correlation between Chalajuaj and Montecito aligns with this potential geography. For lack of additional context on the location of this village, a representative location near mission Santa Barbara has been set based on this history. Francisca‘s baptismal record describes a spousal relationship with “Guisulato.” “Juan Jose” (Spanish name), for whom the baptismal record suggests a spousal relationship with “Guadalupe” (Spanish name), are also identified as Francisca‘s relatives at the time of her provisional baptism. The record of Francisca‘s 20th February, 1819 burial record corroborate Juan Jose as her relative and denote his Native name as Memeyaxu. T.GB.1798.2, Early California Population Project Database, Baptism number 01267, Burial number(s): 02625. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1798.2 for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/9/9b/California_-_Santa_Barbara_Mission_-_view_toward_mountains_LCCN2006688627.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9b/California_-_Santa_Barbara_Mission_-_view_toward_mountains_LCCN2006688627.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/San_Antonio_Valley,_California",
       "type": "Feature",
       "properties": {
@@ -199,7 +303,7 @@
       },
       "descriptions": [
         {
-          "value": "Buenaventura Sitjar officiated and recorded the June 20, 1795 provisional baptism of Tamác (Spanish name, Antonio), conducted in the presence of Tamác‘s father, Achètas (Baptism number 03269X). Tamác, ‘having been bitten by a bear‘ (“por averlo mordido un oso”), was not expected to survive. His provisional baptism was performed near mission San Antonio de Padua “[en su rancheria], Quinau.“ Tamác survived his June 1795 encounter with the Bear, with Sitjar recording that the “Supli Ceremonia” was performed on August 30th, 1795, at which time Tamác was taken to mission San Antonio de Padua (“lo lleve á la Ygl.a y le supli todas las ceremonias”). Historical precedent strongly suggests that Tamác was resettled to San Antonio de Padua at this time. While further details on the specific location of the Bear encounter are not available, the locality of Quinau positions the likely landscape of encounter within the vicinity of this known Salinan settlement area, describes proximity to the mission itself, the San Antonio River, and the Santa Lucia Mountains (See: Milliken and Johnson, An Ethnogeography of Salinan and Northern Chumash Communities – 1769 to 1810, 2005, 10, 52, 143-144). A representative location has been set based on this history. Tamác‘s burial date reflects longterm survivability of the Bear encounter. Tamác's baptismal record does not denote a spousal relationship within mission San Antonio de Padua, and records his age as “como de 25.” The years of his birth and death can be eastimated at c.1770-1814. T.GB.1795.1, Early California Population Project Database, Baptism number 02137, Burial number(s): 02528. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1795.1 for full context and citations."
+          "value": "Buenaventura Sitjar officiated and recorded the June 20, 1795 provisional baptism of Tamác (Spanish name, Antonio), conducted in the presence of Tamác‘s father, Achètas (Baptism number 03269X). Tamác, ‘having been bitten by a bear‘ (“por averlo mordido un oso”), was not expected to survive. His provisional baptism was performed near mission San Antonio de Padua “[en su rancheria], Quinau.“ Tamác survived his June 1795 encounter with the Bear, with Sitjar recording that the “Supli Ceremonia” was performed on August 30th, 1795, at which time Tamác was taken to mission San Antonio de Padua (“lo lleve á la Ygl.a y le supli todas las ceremonias”). Historical precedent strongly suggests that Tamác was resettled to San Antonio de Padua at this time. As the ECPP Guide for Users explains, “the padres also baptized individuals who they feared were in danger of imminent death or were otherwise unable to travel to the mission due to ill health” (19). Importantly, while they functioned to admit the baptized into the missionary system, such provisional baptisms were complemented with an additional baptismal ceremony. Again referring to the ECPP Guide, these ceremonies were performed “[at] a later date, if the ego survived,” at which point “the Franciscans would execute the complete rite of baptism, stating in the record that they had ‘supli las ceremonias,’ or in a crude translation, supplied the full ceremonies. It should be noted that this was not a second baptism, but the completion of the original baptism” (Guide for Users, 19). While further details on the specific location of the Bear encounter are not available, the locality of Quinau positions the likely landscape of encounter within the vicinity of this known Salinan settlement area, describes proximity to the mission itself, the San Antonio River, and the Santa Lucia Mountains (See: Milliken and Johnson, An Ethnogeography of Salinan and Northern Chumash Communities – 1769 to 1810, 2005, 10, 52, 143-144). A representative location has been set based on this history. Tamác‘s burial date reflects longterm survivability of the Bear encounter. Tamác's baptismal record does not denote a spousal relationship within mission San Antonio de Padua, and records his age as “como de 25.” The years of his birth and death can be eastimated at c.1770-1814. T.GB.1795.1, Early California Population Project Database, Baptism number 02137, Burial number(s): 02528. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1795.1 for full context and citations."
         }
       ],
       "depictions": [
