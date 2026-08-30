@@ -106,6 +106,110 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Esteban_T%C3%A1pis",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.1799.2",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "TrackorUAN": "Tracks",
+        "Century": "18th century",
+        "Decade": "1790-1799",
+        "Year": "1799",
+        "Month": "October",
+        "Day": "Unknown",
+        "NativeLandRel": ["Chumash", "Barbareño"],
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Alta California (Pimería Alta)",
+        "Mission": "Santa Barbara",
+        "Country": "Nueva España (New Spain)",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Weight": "Unknown",
+        "Length": "Unknown",
+        "Health": "Unknown",
+        "PoorHealth": "No reference to poor health",
+        "TrackWidth": "None referenced",
+        "TrackLength": "None referenced",
+        "Season": "Autumn",
+        "WinterRest": ["With relationship to period of hyperphagia preceding winter rest", "With relationship to “predenning” or denning preceding winter rest"],
+        "StandardLang": "Human-Bear Conflict",
+        "ConflictDrivers": "Unknown",
+        "Defensive": "Unknown",
+        "NonDefensive": "Unknown",
+        "BearStress": "Charge",
+        "CuriousBear": "Unknown",
+        "Sympatry": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "This microhistory involves one Bear",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "California Montane Chaparral and Woodlands"],
+        "Biome": "Mediterranean Forests, Woodlands & Scrub",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Santa Ynez Mountains", "Transverse Ranges"],
+        "Mountain": "None referenced",
+        "Valley": ["Santa Ynez Valley", "Tequepis Canyon"],
+        "CalRiverSystem": "Santa Ynez River Watershed",
+        "CalRiver": "Santa Ynez River",
+        "CalCreek": "Tequepis Creek",
+        "ExtractiveLink": ["Associated with ECPP Type “-” Baptismal Record", "Associated with the dispossession or removal of an Indigenous group", "Forced labor and coercive control of an Indigenous group and its resources"],
+        "ExtractivePractice": ["Associated with ECPP Type “-” Baptismal Record", "Forced labor and coercive control of an Indigenous group and its resources", "Associated with the dispossession or removal of an Indigenous group", "Regulation or monetization of human movement"],
+        "InfrastructureLink": ["Franciscan mission infrastructure", "Mining infrastructure"],
+        "CompanyLink": "Not applicable",
+        "ImperialRel": "Spanish",
+        "NumberHumans": "1",
+        "HumanNames": ["Xasicumiauit (Tomas (Spanish name)), c.1794-1820", "Chionin (Castor (Spanish name)), c.1764-1809", "Suatmehue (Pascuala (Spanish name)), c.1769-1808", "Sioctu (Vicente Maria (Spanish name)), 1771-1806", "Estevan Tápis, 1754-1825"],
+        "HumanGender": "Male",
+        "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
+        "HumanFatality": "Human fatality or fatalities",
+        "HumanInjury": "Known injury, severe but nonspecific",
+        "Retaliatory": "Unknown",
+        "RetaliatoryMotive": "Not applicable",
+        "CorpusComm": "Unknown",
+        "PredMortality": "Unknown",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Population Database or Archive",
+        "PrintMedState": "California",
+        "CalPrint": "Not applicable",
+        "SourceOrigin": "Early California Population Project Database"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.948713,
+          34.574203
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "Estevan Tapis recorded the provisional baptism of Xasicumiauit (Spanish name, Tomas), age five, performed by Sioctu (Spanish name, Vicente Maria, baptism number 00002) on an unknown day in October of 1799 at “rancheria de Tequeps“ (a Chumash village and community site), with Tapis writing “in casu necessitatis... mordido del oso.” As the ECPP Guide for Users explains, “the padres also baptized individuals who they feared were in danger of imminent death or were otherwise unable to travel to the mission due to ill health” (19). Importantly, while they functioned to admit the baptized into the missionary system, such provisional baptisms were complemented with an additional baptismal ceremony. Again referring to the ECPP Guide, these ceremonies were performed “[at] a later date, if the ego survived,” at which point “the Franciscans would execute the complete rite of baptism, stating in the record that they had ‘supli las ceremonias,’ or in a crude translation, supplied the full ceremonies. It should be noted that this was not a second baptism, but the completion of the original baptism” (Guide for Users, 19). Both the provision of a later suppli ceremonia date of May 23rd, 1801 and marriage record of August 23rd, 1815 (marriage number 01029) affirm that Xasicumiauit survived his encounter with the Bear. Tapis records Chionin (Spanish name, Castor, baptism number 02943) and Suatmehue (Spanish name, Pascuala, baptism number 02945), as Xasicumiauit‘s parents, whose baptismal records suggest that Xasicumiauit had two additional siblings, (Ynes (Spanish name, baptism number 02725) and Agapito (Spanish name, baptism number 02939)). Sioctu‘s identity is confirmed through marriage records to Geronima Maria (Spanish name, baptism number 00862, see marriage number 00208). A representative location has been set based on the history of Tequeps and Tequepis Canyon. T.GB.1799.2, Early California Population Project Database, Baptism number 01688, Burial number(s): 02739. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1799.2 for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mission_Santa_Barbara_rear_view_by_Carleton_Watkins%2C_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mission_Santa_Barbara_rear_view_by_Carleton_Watkins%2C_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Achooykomenga",
       "type": "Feature",
       "properties": {
@@ -199,7 +303,7 @@
       },
       "descriptions": [
         {
-          "value": "Juan Cortés officiated and recorded the June 26th, 1798 provisional baptism of Bosie (Spanish name, Benbenuto) at Pasheeknga (to which Cortés refers as “Passenga“), a major Tongva village northwest of Achooykomenga (the Tongva village in which the mission was established), writing that a seventy-year-old man was in a state of extreme need having sustained serious injuries from an encounter with a Bear (“en extrema necesidad... que havia maltratado bastante un oso”). Bosie was buried four days later on June 30th, 1798, at the mission‘s church. Cortés refers to Passenga as a site not far from the mission San Fernando Rey de España (“sitio llamado Passenga poco distante de esta Mision“), aligning with the geography of Pasheeknga and Achooykomenga, populous Tongva villages. It may be that the encounter between Bosie and the Bear occurred near this area, and a representative location has been selected to represent this geography because the primary source does not support the inference that movement between the site of Bosie‘s origin (Momonga) and the location at which he was provisionally baptized by Cortés (at Pasheeknga) occurred, or is likely. Yet that Cortés describes Bosie‘s origin as “Rancheria de Momonga“ may complicate this reading and further contextualize recent readings of its social history. Momonga acted as a significant cultural, spiritual, artistic, and settlement site and may have been associated with individuals of elevated social status. To this, Knight (2018) counters John Romani‘s 1981 assertion that Momonga was a “highly prestigious village occupied by high status individuals” rather than “a village of commoners or a more secular assortment of individuals”, postulating instead that Momonga may more accurately represent “actually (only) the ceremonial area for an extended village” ((See: Knight, Rock Art at Momonga (CA-LAN-357), 1, 3-4)). Knight further argues that the expanse of Momonga‘s influence “may have included all (or most) of the many sites found from the L.A./Ventura County line on the west,” serving geographies “as far east as CA-LAN-21 [the Walker’s Chatsworth Carin Site] and CA-LAN-209,” both of which he describes as near the mouth “of Brown’s Canyon, to the east” (near Canoga Avenue) (Knight, Rock Art at Momonga (CA-LAN-357), 3-4). Further, in-field observations made by Edwin Krupp and Albert Knight in 2016 identified seasonal aspects to the sacred geography of Momonga which may further contextualize this history (Knight, Rock Art at Momonga (CA-LAN-357), 6). Their observations found that, observed from the south edge of its peak upon the winter solstice, sunset projects the shadow of Stoney Point on the “main panel outcrop” of CA-LAN-357, acting as a sundial (Knight, Rock Art at Momonga (CA-LAN-357), 6). This finding describes the seasonal land relationships which dictated the placement of sacred artwork sites in the Simi Hills: “the earth itself indicates which outcrop has the proper significance to qualify as the most sacred place in the area” for the placement of sacred art (Knight, Rock Art at Momonga (CA-LAN-357), 6). Such information may assist in contextualizing further seasonal or social land relationships which may prove relevant to the encounter between Bosie and the Bear in June of 1798, and, more broadly, supports a reading of dialogue between Momonga and more easterly sites in the San Fernando Valley like Passenga, Achooykomenga and the related, pre-mission Pueblo de Los Ángeles, established in 1781. A representative location has been set based on Cortés‘s description, the approximate location of several significant cultural sites specific to Momonga as described in Knight (2012) as a baseline (Knight, “Three Chumash-Style Pictograph Sites in Fernandeño Territory,” 2). Dialogue between Momonga and Tochonanga, a Tataviam village on the Santa Clara River, may prove relevant to this history. T.GB.1798.3, Early California Population Project Database, Baptism number 00127, Burial number(s): 00005. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1798.3 for full context and citations."
+          "value": "Juan Cortés officiated and recorded the June 26th, 1798 provisional baptism of Bosie (Spanish name, Benbenuto) at Pasheeknga (to which Cortés refers as “Passenga“), a major Tongva village northwest of Achooykomenga (the Tongva village in which the mission was established), writing that a seventy-year-old man was in a state of extreme need having sustained serious injuries from an encounter with a Bear (“en extrema necesidad... que havia maltratado bastante un oso”). Bosie was buried four days later on June 30th, 1798, at the mission‘s church. As the ECPP Guide for Users explains, “the padres also baptized individuals who they feared were in danger of imminent death or were otherwise unable to travel to the mission due to ill health” (19). Importantly, while they functioned to admit the baptized into the missionary system, such provisional baptisms were complemented with an additional baptismal ceremony. Again referring to the ECPP Guide, these ceremonies were performed “[at] a later date, if the ego survived,” at which point “the Franciscans would execute the complete rite of baptism, stating in the record that they had ‘supli las ceremonias,’ or in a crude translation, supplied the full ceremonies. It should be noted that this was not a second baptism, but the completion of the original baptism” (Guide for Users, 19). Cortés refers to Passenga as a site not far from the mission San Fernando Rey de España (“sitio llamado Passenga poco distante de esta Mision“), aligning with the geography of Pasheeknga and Achooykomenga, populous Tongva villages. It may be that the encounter between Bosie and the Bear occurred near this area, and a representative location has been selected to represent this geography because the primary source does not support the inference that movement between the site of Bosie‘s origin (Momonga) and the location at which he was provisionally baptized by Cortés (at Pasheeknga) occurred, or is likely. Yet that Cortés describes Bosie‘s origin as “Rancheria de Momonga“ may complicate this reading and further contextualize recent readings of its social history. Momonga acted as a significant cultural, spiritual, artistic, and settlement site and may have been associated with individuals of elevated social status. To this, Knight (2018) counters John Romani‘s 1981 assertion that Momonga was a “highly prestigious village occupied by high status individuals” rather than “a village of commoners or a more secular assortment of individuals”, postulating instead that Momonga may more accurately represent “actually (only) the ceremonial area for an extended village” ((See: Knight, Rock Art at Momonga (CA-LAN-357), 1, 3-4)). Knight further argues that the expanse of Momonga‘s influence “may have included all (or most) of the many sites found from the L.A./Ventura County line on the west,” serving geographies “as far east as CA-LAN-21 [the Walker’s Chatsworth Carin Site] and CA-LAN-209,” both of which he describes as near the mouth “of Brown’s Canyon, to the east” (near Canoga Avenue) (Knight, Rock Art at Momonga (CA-LAN-357), 3-4). Further, in-field observations made by Edwin Krupp and Albert Knight in 2016 identified seasonal aspects to the sacred geography of Momonga which may further contextualize this history (Knight, Rock Art at Momonga (CA-LAN-357), 6). Their observations found that, observed from the south edge of its peak upon the winter solstice, sunset projects the shadow of Stoney Point on the “main panel outcrop” of CA-LAN-357, acting as a sundial (Knight, Rock Art at Momonga (CA-LAN-357), 6). This finding describes the seasonal land relationships which dictated the placement of sacred artwork sites in the Simi Hills: “the earth itself indicates which outcrop has the proper significance to qualify as the most sacred place in the area” for the placement of sacred art (Knight, Rock Art at Momonga (CA-LAN-357), 6). Such information may assist in contextualizing further seasonal or social land relationships which may prove relevant to the encounter between Bosie and the Bear in June of 1798, and, more broadly, supports a reading of dialogue between Momonga and more easterly sites in the San Fernando Valley like Passenga, Achooykomenga and the related, pre-mission Pueblo de Los Ángeles, established in 1781. A representative location has been set based on Cortés‘s description, the approximate location of several significant cultural sites specific to Momonga as described in Knight (2012) as a baseline (Knight, “Three Chumash-Style Pictograph Sites in Fernandeño Territory,” 2). Dialogue between Momonga and Tochonanga, a Tataviam village on the Santa Clara River, may prove relevant to this history. T.GB.1798.3, Early California Population Project Database, Baptism number 00127, Burial number(s): 00005. Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The text entered here is a grammatical reconstruction of original mission records ontologized by the Early California Population Project, and is based on the information made available through its digital database. Further records for the Indigenous individuals and mission communities associated with this microhistory can be accessed through the Early California Population Project Database. Please see the Predator Microhistory Network's entry for T.GB.1798.3 for full context and citations."
         }
       ],
       "depictions": [
@@ -278,7 +382,7 @@
         "CompanyLink": "Not applicable",
         "ImperialRel": "Spanish",
         "NumberHumans": "1",
-        "HumanNames": ["Chuluascucáy (Francisco de Jesus (Spanish name)), c.1787-1808 (disappearance)", "Junait (Urbano or Urbano Joseph (Spanish name)), c.1775-1794", "Huichuit (Florentino (Spanish name)), c.1756-1823", "Helena (Spanish name), c.1756-1820", "Maxin or Magin (Spanish name), c.1792-1799", "Melchor (Spanish name)", "Aloria (Serafina or Seraphina Maria (Spanish name)), c.1776-1797", "Estevan Tapis"],
+        "HumanNames": ["Chuluascucáy (Francisco de Jesus (Spanish name)), c.1787-1808 (disappearance)", "Junait (Urbano or Urbano Joseph (Spanish name)), c.1775-1794", "Huichuit (Florentino (Spanish name)), c.1756-1823", "Helena (Spanish name), c.1756-1820", "Maxin or Magin (Spanish name), c.1792-1799", "Melchor (Spanish name)", "Aloria (Serafina or Seraphina Maria (Spanish name)), c.1776-1797", "Estevan Tápis, 1754-1825"],
         "HumanGender": "Male",
         "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
         "HumanFatality": "Human fatality or fatalities",
@@ -902,7 +1006,7 @@
         "CompanyLink": "Not applicable",
         "ImperialRel": "Spanish",
         "NumberHumans": "1",
-        "HumanNames": ["Suayeuset (Francisco de Borja, Francisco de Borja Suayeuset)", "Unknown", "Estevan Tapis"],
+        "HumanNames": ["Suayeuset (Francisco de Borja, Francisco de Borja Suayeuset)", "Unknown", "Estevan Tápis, 1754-1825"],
         "HumanGender": "Male",
         "SocialGroup": ["Indigenous mission communities", "Indigenous individuals and communities of the American west", "Franciscan missionaries, padres, and associated figures"],
         "HumanFatality": "Human fatality or fatalities",
