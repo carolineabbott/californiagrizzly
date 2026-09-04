@@ -115,7 +115,7 @@
         "CatalogueNumber": "T.B.TOLOWA.1",
         "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
         "TrackorUAN": "Tracks",
-        "Century": "18th century",
+        "Century": ["17th century", "18th century", "19th century"],
         "Decade": "Not applicable",
         "Year": "Not applicable",
         "Month": "Not applicable",
