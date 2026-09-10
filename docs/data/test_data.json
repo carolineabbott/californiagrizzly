@@ -106,6 +106,111 @@
       ]
     },
     {
+      "@id": "https://en.wikipedia.org/wiki/Achomawi",
+      "type": "Feature",
+      "properties": {
+        "BearType": "Brown Bear, Grizzly, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "BBSubtype": "Not applicable",
+        "CatalogueNumber": "T.GB.ACHUMAWI.1",
+        "Tier": "Tier 4: Field notes or reflections on the general presence of an historic population",
+        "TrackorUAN": "Tracks",
+        "Century": "Ancestral relationship, T.E.K., or Oral History",
+        "Decade": "Ancestral relationship, T.E.K., or Oral History",
+        "Year": "Ancestral relationship, T.E.K., or Oral History",
+        "Month": "Ancestral relationship, T.E.K., or Oral History",
+        "Day": "Ancestral relationship, T.E.K., or Oral History",
+        "NativeLandRel": "Achumawi",
+        "CACityTown": "Not applicable",
+        "County": "Not applicable",
+        "USState": "Not applicable",
+        "MexTerr": "Not applicable",
+        "Mission": "Not applicable",
+        "Country": "Not applicable",
+        "Sex": "Sex relationship not stated",
+        "Age": "Age relationship not stated",
+        "Weight": "Not applicable",
+        "Length": "Not applicable",
+        "Health": "None referenced",
+        "PoorHealth": "Not applicable",
+        "TrackWidth": "Not applicable",
+        "TrackLength": "Not applicable",
+        "Season": "Not applicable",
+        "WinterRest": "Not applicable",
+        "StandardLang": "Traditional Ecological Knowledge (TEK)",
+        "ConflictDrivers": "None referenced",
+        "Defensive": "Not applicable",
+        "NonDefensive": "Not applicable",
+        "BearStress": "Not applicable",
+        "CuriousBear": "Not applicable",
+        "Sympatry": "None referenced",
+        "Bearhaviours": "None referenced",
+        "NumberBears": "Traditional Ecological Knowledge (TEK)",
+        "MaternityLink": "Not applicable",
+        "Offspring": "Not applicable",
+        "OffspringOutcomes": "Not applicable",
+        "PreyPresence": "Wild prey sources not referenced",
+        "DomAnimals": "None referenced",
+        "Livestock": "None referenced",
+        "WildAnimals": "None referenced",
+        "Birds": "None referenced",
+        "Fish": "None referenced",
+        "Plant": "None referenced",
+        "Crops": "None referenced",
+        "Bugs": "None referenced",
+        "Ecoregion": ["Central-Southern Cascades Forests", "Eastern Cascades Forests"],
+        "Biome": "Temperate Conifer Forests",
+        "Weather": "None referenced",
+        "MajorWeather": "None referenced",
+        "MountainRange": ["Cascade Range", "Sierra Nevada Mountains"],
+        "Mountain": "None referenced",
+        "Valley": ["Fall River Valley", "Big Valley"],
+        "CalRiverSystem": ["Pit River Watershed", "Sacramento River System"],
+        "CalRiver": ["Pit River", "Fall River"],
+        "CalCreek": "None referenced",
+        "ExtractiveLink": "Not applicable",
+        "ExtractivePractice": "Not applicable",
+        "InfrastructureLink": "Not applicable",
+        "CompanyLink": "Not applicable",
+        "ImperialRel": "Not applicable",
+        "NumberHumans": "This microhistory refers to a population of humans",
+        "HumanNames": "None referenced",
+        "HumanGender": "Mixed gender",
+        "SocialGroup": ["Achumawi, Pit River Tribe", "Grizzly Bear Spiritual Power", "Indigenous individuals and communities of the American west"],
+        "HumanFatality": "Traditional Ecological Knowledge (TEK)",
+        "HumanInjury": "Traditional Ecological Knowledge (TEK)",
+        "Retaliatory": "Not applicable",
+        "RetaliatoryMotive": "Not applicable",
+        "IndigenousConsumption": "Source does not describe consumption relationship",
+        "CorpusComm": "Not applicable",
+        "PredMortality": "Not applicable",
+        "Bloodsport": "No known relationship",
+        "SourceType": "Academic literature, oral history, or secondary source material",
+        "PrintMedState": "Not applicable",
+        "CalPrint": "Not applicable",
+        "SourceOrigin": "Not applicable"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.446935,
+          41.127503
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "In her contribution to Shasta Ethnography (1946), Catherine Holt wrote of the relationship between Achomawi and Achumawi communities, Shamans, and the treatment of injuries caused by rattle-snake or Grizzly bite: explaining “special shamans” were involved in the treatment of “rattle-snake or grizzly-bear bites,” and that “Though it was not essential to have a shaman with the rattlesnake axalki to treat a rattlesnake bite, it was considered better to do so” (Holt, “Shasta Ethnography,” 333). In his 1998 dissertation, Bruce E. Nevin uses the term “Pit River people” to refer to both the people and their language in line with current usage by this community: likewise, “[in] the present work I use the term Pit River for the people and the language, following their own current usage” (Nevin, “Aspects of Pit River Phonology,” 2). The Pit River people hold extensive ancestral connection to a large area of northeastern California: anthropological reference to the Achumawi (Achomawi, Ajumawi) should be interpreted with careful scrutiny. Historically, these terms (often) only describe peoples of the Fall River valley: the term(s), from the root “ajúm·á·wí, meaning dwellers on the ajúm·á, ‘river,’ properly applies only to people in the Fall River valley, where the Fall River flows into the Pit from the north, midway along its course” (Nevin, 2). In effect, the Achomawi are the nine northerly bands of the Pit River people. This is of concern when attempting geographic interpretation. As Nevin explains, Fred Kniffen (1928) mapped the ancestral lands of nine Pit River bands north and south of the river (2-4, see also Kniffen, Achomawi Geography. American Archaeology and Ethnology Vol. 23. University of California Press: Berkeley, CA). Their relations (the Hat Creek (atsugé) and Dixie Valley (apwáruge) people), often collectively referred to as the Atsugewi, lived in Big Valley (Nevin, “Aspects of Pit River Phonology,” 2). As Nevin explains, the ancestral lands of the Pit River people spans two ecological zones: deeply wooded intermountain canyons and valleys with supportive habitat for deer, salmon, pine, and oak, and progressively higher, broader, and drier valleys. The language has two dialect regions that conform to this division: per Nevin, downriver speakers place the division between Fall River Valley (Achomawi) and Big Valley (Atwamsini), while upriver speakers assert that the two regions overlap in Big Valley (Nevin, “Aspects of Pit River Phonology,” 3, see also: Bauman (1979:2)). Although hydroelectric power stations and anthropogenic intrusions have altered the area’s hydrology and vastly decreased the presence of salmon, Nevin notes both the historical existence of a substantial waterfall at the confluence of the Fall River and the Pit River, and the existence of a place called wíníhàa·lÀíwáa, “where it turns back,” (a site name referring to salmon) located in the canyon below the Fall River junction (Nevin, “Aspects of Pit River Phonology,” 2). Both the Fall River and the Pit River have been included in this entry to reflect the cultural diversity of this region land relationships pre-installation of the Pit 1 Power Station, which tunneled through mountains and substantially altered riverine relationships. In keeping with house style, due to the nonspecific geography of this source, the location chosen to represent this microhistory intends to situate this aspect of Indigenous Heritage and nonhuman relation within keystone land relationships as they are voiced by current community members (the Pit River Tribe) and, where relevant or where such sources are not available, as such location may be described by the secondary literature and defensibly described in relation to the ecological relationships the particular microhistory contains. Specifically, a site on the trails of Ahjumawi Lava Springs State Park  has been chosen to represent this history. To this, Christa Westphal’s 2012 thesis is of assistance. Westphal’s intervention distinguishes the relationship between the Achomawi and Ahjumawi Lava Springs State Park to describe its network of trails as a cultural landscape. The work is formatively reliant upon oral interviews with community members, the framework for which, structured in view of S. Raven and C. M. Woods’ 1985 intervention, approaches the three tenets of land relation among the Pit River peoples outlined by that work: resultantly, both Westphal’s analysis and the transcripts themselves describe connection to the “ritual ties to the land (mythical and other continued observances)” to which it also attends (Westphal, “The Archaeological, Ethnographic, and Physical Landscape of California’s Ahjumawi Lava Springs State Park Trails,” 49; Appendix B, Oral Interview Transcripts, 134-155; see also: Raven and Woods, Ethnographic Report for the Pit 3, 4, and 5 project, Shasta County, California: an Inventory of Native American Cultural Resources and Related Concerns for Lake Britton and Portions of the Lower Pit River. June. Prepared by WIRTH Environmental Services, San Diego, CA. Prepared for Pacific Gas and Electric Company, San Francisco, CA. (Contract no. Z-16-0044-84.) On file at Jones & Stokes, Sacramento, CA, 2). The representative location assigned to this microhistory is informed by participant’s responses to Westphal’s third question “What the trails are used for?”, of which Westphal wrote: “Participant 3 indicated that the trails were used for vision quests. Participants 4 and 5 both indicated that there were a number of special rocks in the park, such as a wedding rock and a jumping rock” and described the presence of “special places where springs are used by doctors,” as well as areas with which Westphal interpreted “a power or sacred area” (Westphal, 61). Interviewees further describe the shared use by people, bears and wildlife along the trails of what is now Ahjumawi Lava Springs State Park (see: Westphal, Appendix B, 134-155). The geolocation of this microhistory should be taken in view of related points on this map which represent other aspects of Pit River peoples T.E.K.. The location chosen to represent this microhistory intends to situate this aspect of Pit River peoples Heritage and relation to Bears within keystone land relationships described by the secondary literature and by the public-facing information provided by the Pit River Tribe. T.GB.ACHUMAWI.1: Content notice: engage this history with respect and care. Indigenous Kinship relationships with predator animals, including as represented by events which can be examined through the lens of “human-Bear conflict,” are dynamic and complex, and must be historicized. This ontology is designed to place terms used to study modern populations of animals, and human-Wildlife interaction, in conversation with historical events, groups, landscapes and agencies as a means to approach these conversations with care. The date assigned to this microhistory is representative of the nearest temporal window which preceded first contact between this Indigenous community and European, or Euro-American settlers. It is non-specific, and its associated temporal window should not be taken as exclusive, only representative. Please see the Predator Microhistory Network's entry for T.GB.ACHUMAWI.1 for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Achomawi_Basket-maker_by_Edward_S_Curtis_2007_001_041.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Achomawi_Basket-maker_by_Edward_S_Curtis_2007_001_041.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    {
       "@id": "https://en.wikipedia.org/wiki/Pacific_coast",
       "type": "Feature",
       "properties": {
